@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A4ED8EAC291D8C72003D6403 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A4ED8EAB291D8C72003D6403 /* main.cpp */; };
+		A4ED8EBE291D8CE4003D6403 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A4ED8EB7291D8CE3003D6403 /* solution.cpp */; };
+		A4ED8EBF291D8CE4003D6403 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A4ED8EB9291D8CE3003D6403 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,14 @@
 
 /* Begin PBXFileReference section */
 		A4ED8EA8291D8C72003D6403 /* zielen */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = zielen; sourceTree = BUILT_PRODUCTS_DIR; };
-		A4ED8EAB291D8C72003D6403 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A4ED8EB5291D8CE3003D6403 /* main.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		A4ED8EB6291D8CE3003D6403 /* TEKST_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TEKST_1.txt; sourceTree = "<group>"; };
+		A4ED8EB7291D8CE3003D6403 /* solution.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		A4ED8EB8291D8CE3003D6403 /* lekcja1_tekst.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = lekcja1_tekst.txt; sourceTree = "<group>"; };
+		A4ED8EB9291D8CE3003D6403 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A4ED8EBA291D8CE3003D6403 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A4ED8EBC291D8CE4003D6403 /* TEKST_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TEKST_2.txt; sourceTree = "<group>"; };
+		A4ED8EBD291D8CE4003D6403 /* lekcja2_tekst.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = lekcja2_tekst.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +49,7 @@
 		A4ED8E9F291D8C72003D6403 = {
 			isa = PBXGroup;
 			children = (
-				A4ED8EAA291D8C72003D6403 /* zielen */,
+				A4ED8EB2291D8C99003D6403 /* zielen */,
 				A4ED8EA9291D8C72003D6403 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +62,35 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A4ED8EAA291D8C72003D6403 /* zielen */ = {
+		A4ED8EB2291D8C99003D6403 /* zielen */ = {
 			isa = PBXGroup;
 			children = (
-				A4ED8EAB291D8C72003D6403 /* main.cpp */,
+				A4ED8EB4291D8CE3003D6403 /* lekcja_1 */,
+				A4ED8EBB291D8CE4003D6403 /* lekcja_2 */,
+				A4ED8EBA291D8CE3003D6403 /* README.md */,
 			);
 			path = zielen;
+			sourceTree = "<group>";
+		};
+		A4ED8EB4291D8CE3003D6403 /* lekcja_1 */ = {
+			isa = PBXGroup;
+			children = (
+				A4ED8EB5291D8CE3003D6403 /* main.h */,
+				A4ED8EB6291D8CE3003D6403 /* TEKST_1.txt */,
+				A4ED8EB7291D8CE3003D6403 /* solution.cpp */,
+				A4ED8EB8291D8CE3003D6403 /* lekcja1_tekst.txt */,
+				A4ED8EB9291D8CE3003D6403 /* main.cpp */,
+			);
+			path = lekcja_1;
+			sourceTree = "<group>";
+		};
+		A4ED8EBB291D8CE4003D6403 /* lekcja_2 */ = {
+			isa = PBXGroup;
+			children = (
+				A4ED8EBC291D8CE4003D6403 /* TEKST_2.txt */,
+				A4ED8EBD291D8CE4003D6403 /* lekcja2_tekst.txt */,
+			);
+			path = lekcja_2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +150,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4ED8EAC291D8C72003D6403 /* main.cpp in Sources */,
+				A4ED8EBF291D8CE4003D6403 /* main.cpp in Sources */,
+				A4ED8EBE291D8CE4003D6403 /* solution.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
