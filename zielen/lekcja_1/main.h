@@ -1,5 +1,3 @@
-#pragma once
-
 enum elementPlecaka {
 	PORADNIKC=0,
 	IDENTYFIKATOR=1,
@@ -26,12 +24,11 @@ private:
 public:
 	void redefine(elementPlecaka a, elementPlecaka b, typPlecaka t);
 	Plecak();
-	static int wywolaj(Plecak plecak);
-};
+	static int wywolaj(Plecak plecak); //Graczu, jako argument uzyj ktorejs z funkcji wezKolor()!
+	static void start();
 
-namespace Plecaki {
-	Plecak czerwony;
-	Plecak zielony;
-	Plecak niebieski;
-	Plecak zolty;
-}
+	static Plecak wezCzerwony();
+	static Plecak wezZielony();
+	static Plecak wezNiebieski();
+	static Plecak wezZolty();
+};

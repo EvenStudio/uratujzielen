@@ -1,5 +1,6 @@
 #include "main.h"
 
 int main(){
-	return Plecak::wywolaj(Plecaki::niebieski);
+	Plecak::start();
+	return Plecak::wywolaj(Plecak::wezCzerwony());
 }

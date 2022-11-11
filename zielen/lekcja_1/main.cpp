@@ -1,6 +1,11 @@
 #include "main.h"
 #include <cstdio>
 
+Plecak czerwony = Plecak();
+Plecak zielony = Plecak();
+Plecak niebieski = Plecak();
+Plecak zolty = Plecak();
+
 void Plecak::redefine(elementPlecaka a, elementPlecaka b, typPlecaka t) {
 	this->atrybut1 = a;
 	this->atrybut2 = b;
@@ -33,9 +38,18 @@ int Plecak::wywolaj(Plecak plecak){
 	}
 }
 
-Plecak::Plecak() {}
+Plecak::Plecak() {
+	//
+}
 
-Plecak Plecaki::czerwony(LORNETKA, GOTOWANIE, CZERWONY);
-Plecak Plecaki::zielony = Plecak(DLUGOPISZTRUCIZNA, GPS, ZIELONY);
-Plecak Plecaki::niebieski = Plecak(PORADNIKC, IDENTYFIKATOR, NIEBIESKI); //poprawny
-Plecak Plecaki::zolty = Plecak(SPIWOR, PODRECZNIKANGIELSKI, ZOLTY);
+void Plecak::start() {
+	czerwony.redefine(LORNETKA, GOTOWANIE, CZERWONY);
+	zielony.redefine(DLUGOPISZTRUCIZNA, GPS, ZIELONY);
+	niebieski.redefine(PORADNIKC, IDENTYFIKATOR, NIEBIESKI); //poprawny
+	zolty.redefine(SPIWOR, PODRECZNIKANGIELSKI, ZOLTY);
+}
+
+Plecak Plecak::wezCzerwony() { return czerwony; }
+Plecak Plecak::wezZielony() { return zielony; }
+Plecak Plecak::wezNiebieski() { return niebieski; }
+Plecak Plecak::wezZolty() { return zolty; }
