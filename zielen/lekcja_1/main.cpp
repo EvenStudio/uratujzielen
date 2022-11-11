@@ -17,6 +17,7 @@ int Plecak::wywolaj(typPlecaka typ) {
 		return 1;
 		break;
 	default:
+		return 0;
 		break;
 	}
 }

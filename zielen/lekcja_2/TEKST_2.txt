@@ -23,7 +23,7 @@ W poci�gu RASU dostaje pilny komunikat:
 Po dw�ch godzinach jeste�cie nareszcie w Brzeziej ��ce. Ma�a miejscowo�� niedaleko Wroc�awia. Wydaje si� normalna, ale w centrum stoi ma�y budynek Provivoltu, a wed�ug informacji udzielonych przez IEA nie ma tu domu nie korzystaj�cego z "brudnej" energii. 
 - Przyda�oby si� zorganizowa� tu fotowoltaik�...
 - Nie ma szans. Burmistrz jest jednym z udzia�owc�w Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego mo�esz spotka� si� z nieprzychylno�ci� mieszka�c�w. Po trzecie nie masz ze sob� �adnych plan�w ani materia��w.
-- Zapomnia�e�, �e mam ze sob� Poradnik Elektronika, poza tym jestem jednym z najlepszych agent�w.
+- Zapomnia�e�, �e mam ze sob� Poradnik C++, poza tym jestem jednym z najlepszych agent�w.
 - Co, zrobisz to sam?
 - Tak, zrobi� to sam!
 - Ale jak?
