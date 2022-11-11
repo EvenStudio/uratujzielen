@@ -1,4 +1,7 @@
 #include "main.h"
+#include <iostream>
+
+std::string komunikat = "";
 
 /*	czerwony.redefine(LORNETKA, GOTOWANIE, CZERWONY);
 	zielony.redefine(DLUGOPISZTRUCIZNA, GPS, ZIELONY);
@@ -9,11 +12,19 @@ int Plecak::wywolaj(typPlecaka typ) {
 	switch (typ)
 	{
 	case CZERWONY:
+		test(false);
+		return 0;
+		break;
 	case ZIELONY:
+		test(false);
+		return 0;
+		break;
 	case ZOLTY:
+		test(false);
 		return 0;
 		break;
 	case NIEBIESKI:
+		test(true);
 		return 1;
 		break;
 	default:
@@ -22,6 +33,11 @@ int Plecak::wywolaj(typPlecaka typ) {
 	}
 }
 
-void Plecak::test(){
+bool Plecak::test(bool a){
+	if(a){
+		return true;
+		komunikat = "Lekcja zaliczona!";
+	}
 
+	return false;
 }

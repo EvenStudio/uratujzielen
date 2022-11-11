@@ -11,5 +11,5 @@ private:
 public:
 	Plecak();
 	static int wywolaj(typPlecaka typ);
-	static void test();
+	static bool test(bool a);
 };
