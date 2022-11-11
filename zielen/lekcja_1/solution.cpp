@@ -1,5 +1,10 @@
 #include "main.cpp"
+#include <stdio.h>
 
 int main(){
-	return Plecak::wywolaj(NIEBIESKI);
+	if (Plecak::wywolaj(NIEBIESKI) == 1) {
+		printf("Udalo sie!");
+	} else {
+		printf("Nie udalo sie!");
+	}
 }
