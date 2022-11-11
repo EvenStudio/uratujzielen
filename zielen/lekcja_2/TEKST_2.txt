@@ -27,3 +27,12 @@ Po dw�ch godzinach jeste�cie nareszcie w Brzeziej ��ce. Ma�a miejscowo
 - Co, zrobisz to sam?
 - Tak, zrobi� to sam!
 - Ale jak?
+- Ju� ja wiem jak... 
+
+----------------------------------------
+
+PODPOWIEDZ:
+
+Musisz odkryc numer typka z fotowoltaiki... Ale jak? Masz dostep do specjalnej funkcji zhakuj().
+Jako argument podajesz nazwe firmy. Funkcja ta zwraca poprawny numer tylko wtedy, kiedy poprawnie
+wpiszesz nazwe najwiekszej firmy energetycznej na swiecie i dodasz na koncu napis FOTOWOLTAIKA. 
