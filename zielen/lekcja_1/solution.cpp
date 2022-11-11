@@ -2,5 +2,5 @@
 
 int main(){
 	Plecak::start();
-	return Plecak::wywolaj(Plecak::wezCzerwony());
+	
 }
