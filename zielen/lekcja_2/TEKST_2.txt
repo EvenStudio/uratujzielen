@@ -1,29 +1,29 @@
 UWAGA!!! LAWINA!!! DOTRZE ZA 30 SEKUND!!!
-Otwierasz plecak. Jest tam identyfikator i Poradnik Elektronika. Dobrze rozwi¹za³eœ zagadkê!
+Otwierasz plecak. Jest tam identyfikator i Poradnik C++. Dobrze rozwiï¿½zaï¿½eï¿½ zagadkï¿½!
 Biegnesz przez dom do piwnicy. !!! 10 SEKUND !!!
-Ju¿ otwierasz schron, ale karta ci wypad³a. !!! 5 SEKUND !!!
+Juï¿½ otwierasz schron, ale karta ci wypadï¿½a. !!! 5 SEKUND !!!
 Drzwi otwarte....
 
-Uda³o ci siê zd¹¿yæ na czas! W schronie czekasz 5 minut. Po tym czasie postanawiasz opuœciæ schronienie.
-W³aœnie wychodzisz, kiedy RASU ci przerywa:
-- Nie mo¿esz wyjœæ. Na zewn¹trz s¹ jacyœ nieznani ludzie, nie ratownicy, którzy przeszukuj¹ teren naoko³o. To prawdodobnie ci co spowodowali lawinê. Na szczêœcie ze schronu masz po³¹czenie Undeground Egological Railway. IEA chce ¿ebyœ wyruszy³ w okolice Wroc³awia.
+Udaï¿½o ci siï¿½ zdï¿½ï¿½yï¿½ na czas! W schronie czekasz 5 minut. Po tym czasie postanawiasz opuï¿½ciï¿½ schronienie.
+Wï¿½aï¿½nie wychodzisz, kiedy RASU ci przerywa:
+- Nie moï¿½esz wyjï¿½ï¿½. Na zewnï¿½trz sï¿½ jacyï¿½ nieznani ludzie, nie ratownicy, ktï¿½rzy przeszukujï¿½ teren naokoï¿½o. To prawdodobnie ci co spowodowali lawinï¿½. Na szczï¿½cie ze schronu masz poï¿½ï¿½czenie Undeground Egological Railway. IEA chce ï¿½ebyï¿½ wyruszyï¿½ w okolice Wrocï¿½awia.
 - A dlaczego akurat tam?
-- To s¹ okolice domniemanego pochodzenia sprawców lawiny, która mia³a ciê unieszkodliwiæ. Wyruszajmy!
+- To sï¿½ okolice domniemanego pochodzenia sprawcï¿½w lawiny, ktï¿½ra miaï¿½a ciï¿½ unieszkodliwiï¿½. Wyruszajmy!
 - Czekaj, jeszcze nie!
 - Dlaczego?
-- Agencja nie odwa¿y³a siê przekazaæ tego robotowi, ale posiadam bardzo wa¿ny pendrive. Mia³em go chroniæ. Podejrzewam ¿e to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szczêœcie jest w tym schronie. 
-Otwierasz sejf swoim identyfikatorem, wyjmujesz ma³e stalowe pude³eczko i wychodzisz tajnym w³azem pod odsuwan¹ szaf¹.
+- Agencja nie odwaï¿½yï¿½a siï¿½ przekazaï¿½ tego robotowi, ale posiadam bardzo waï¿½ny pendrive. Miaï¿½em go chroniï¿½. Podejrzewam ï¿½e to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szczï¿½cie jest w tym schronie. 
+Otwierasz sejf swoim identyfikatorem, wyjmujesz maï¿½e stalowe pudeï¿½eczko i wychodzisz tajnym wï¿½azem pod odsuwanï¿½ szafï¿½.
 
-W poci¹gu RASU dostaje pilny komunikat:
-- Odnaleziono odpowiedzialnych za sprawców lawiny. To Provivolt, wiod¹ca firma energetyczna na œwiecie. Od lat sabotuj¹ agencjê, ale odwa¿yli siê spowodowaæ lawinê, co oznacza, ¿e maj¹ du¿e wp³ywy i zamierzaj¹ je wykorzystaæ. Musisz ich powstrzymaæ! Nie sam oczywiœcie. Po dotarciu musisz na piechotê dojœæ do Wroc³awia i tam stawiæ siê na oddziale IEA.
-- Muszê na piechotê?
-- W komunikacji na wsi bêdziesz ³atwo rozpoznawalny, a w mieœcie wtopisz siê w t³um. Spokojnie, to tylko 20 km.
+W pociï¿½gu RASU dostaje pilny komunikat:
+- Odnaleziono odpowiedzialnych za sprawcï¿½w lawiny. To Provivolt, wiodï¿½ca firma energetyczna na ï¿½wiecie. Od lat sabotujï¿½ agencjï¿½, ale odwaï¿½yli siï¿½ spowodowaï¿½ lawinï¿½, co oznacza, ï¿½e majï¿½ duï¿½e wpï¿½ywy i zamierzajï¿½ je wykorzystaï¿½. Musisz ich powstrzymaï¿½! Nie sam oczywiï¿½cie. Po dotarciu musisz na piechotï¿½ dojï¿½ï¿½ do Wrocï¿½awia i tam stawiï¿½ siï¿½ na oddziale IEA.
+- Muszï¿½ na piechotï¿½?
+- W komunikacji na wsi bï¿½dziesz ï¿½atwo rozpoznawalny, a w mieï¿½cie wtopisz siï¿½ w tï¿½um. Spokojnie, to tylko 20 km.
 - ILE?!
 
-Po dwóch godzinach jesteœcie nareszcie w Brzeziej £¹ce. Ma³a miejscowoœæ niedaleko Wroc³awia. Wydaje siê normalna, ale w centrum stoi ma³y budynek Provivoltu, a wed³ug informacji udzielonych przez IEA nie ma tu domu nie korzystaj¹cego z "brudnej" energii. 
-- Przyda³oby siê zorganizowaæ tu fotowoltaikê...
-- Nie ma szans. Burmistrz jest jednym z udzia³owców Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego mo¿esz spotkaæ siê z nieprzychylnoœci¹ mieszkañców. Po trzecie nie masz ze sob¹ ¿adnych planów ani materia³ów.
-- Zapomnia³eœ, ¿e mam ze sob¹ Poradnik Elektronika, poza tym jestem jednym z najlepszych agentów.
+Po dwï¿½ch godzinach jesteï¿½cie nareszcie w Brzeziej ï¿½ï¿½ce. Maï¿½a miejscowoï¿½ï¿½ niedaleko Wrocï¿½awia. Wydaje siï¿½ normalna, ale w centrum stoi maï¿½y budynek Provivoltu, a wedï¿½ug informacji udzielonych przez IEA nie ma tu domu nie korzystajï¿½cego z "brudnej" energii. 
+- Przydaï¿½oby siï¿½ zorganizowaï¿½ tu fotowoltaikï¿½...
+- Nie ma szans. Burmistrz jest jednym z udziaï¿½owcï¿½w Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego moï¿½esz spotkaï¿½ siï¿½ z nieprzychylnoï¿½ciï¿½ mieszkaï¿½cï¿½w. Po trzecie nie masz ze sobï¿½ ï¿½adnych planï¿½w ani materiaï¿½ï¿½w.
+- Zapomniaï¿½eï¿½, ï¿½e mam ze sobï¿½ Poradnik Elektronika, poza tym jestem jednym z najlepszych agentï¿½w.
 - Co, zrobisz to sam?
-- Tak, zrobiê to sam!
+- Tak, zrobiï¿½ to sam!
 - Ale jak?
