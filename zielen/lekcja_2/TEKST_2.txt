@@ -6,12 +6,12 @@ Drzwi otwarte....
 
 Udało ci się zdążyć na czas! W schronie czekasz 5 minut. Po tym czasie postanawiasz opuścić schronienie.
 Właśnie wychodzisz, kiedy RASU ci przerywa:
-- Nie możesz wyjść. Na zewnątrz są jacyś nieznani ludzie, nie ratownicy, którzy przeszukuja teren naokoło. To prawdodobnie ci co spowodowali lawinę. Na szcz�cie ze schronu masz po��czenie Undeground Egological Railway. IEA chce żebyś wyruszył w okolice Wrocławia.
+- Nie możesz wyjść. Na zewnątrz są jacyś nieznani ludzie, nie ratownicy, którzy przeszukuja teren naokoło. To prawdodobnie ci co spowodowali lawinę. Na szczęście ze schronu masz połączenie Undeground Egological Railway. IEA chce żebyś wyruszył w okolice Wrocławia.
 - A dlaczego akurat tam?
 - To są okolice domniemanego pochodzenia sprawców lawiny, która miała cię unieszkodliwić. Wyruszajmy!
 - Czekaj, jeszcze nie!
 - Dlaczego?
-- Agencja nie odważyła się przekazać tego robotowi, ale posiadam bardzo ważny pendrive. Miałem go chronić. Podejrzewam, że to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szcz�cie jest w tym schronie. 
+- Agencja nie odważyła się przekazać tego robotowi, ale posiadam bardzo ważny pendrive. Miałem go chronić. Podejrzewam, że to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szczęście jest w tym schronie. 
 Otwierasz sejf swoim identyfikatorem, wyjmujesz małe stalowe pudełeczko i wychodzisz tajnym włazem pod odsuwaną szafą.
 
 W pociągu RASU dostaje pilny komunikat:
@@ -20,7 +20,7 @@ W pociągu RASU dostaje pilny komunikat:
 - W komunikacji na wsi będziesz łatwo rozpoznawalny, a w mieście wtopisz się w tłum. Spokojnie, to tylko 20 km.
 - ILE?!
 
-Po dwóch godzinach jesteście nareszcie w Brzeziej ��ce. Mała miejscowość niedaleko Wrocławia. Wydaje się normalna, ale w centrum stoi mały budynek Provivoltu, a według informacji udzielonych przez IEA nie ma tu domu nie korzystającego z "brudnej" energii. 
+Po dwóch godzinach jesteście nareszcie w Brzeziej łące. Mała miejscowość niedaleko Wrocławia. Wydaje się normalna, ale w centrum stoi mały budynek Provivoltu, a według informacji udzielonych przez IEA nie ma tu domu nie korzystającego z "brudnej" energii. 
 - Przydałoby się zorganizować tu fotowoltaikę...
 - Nie ma szans. Burmistrz jest jednym z udziałowców Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego możesz spotkać się z nieprzychylnością mieszkańców. Po trzecie nie masz ze sobą żadnych planów ani materiałów.
 - Zapomniałeś, że mam ze sobą Poradnik C++, poza tym jestem jednym z najlepszych agentów.
