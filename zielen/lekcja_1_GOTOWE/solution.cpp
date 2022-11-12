@@ -1,5 +1,6 @@
 #include "main.cpp"
 
 int solution(){
-	return Plecak::wywolaj(NIEBIESKI);
+	return 0;
+	//return Plecak::wywolaj(NIEBIESKI);
 }

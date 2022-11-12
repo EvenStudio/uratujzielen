@@ -1,5 +1,5 @@
 #include "main.cpp"
 
-void solution(){
-    
+int solution(){
+    return 0;
 }
