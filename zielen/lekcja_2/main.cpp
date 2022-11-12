@@ -29,20 +29,18 @@ int zhakuj(std::string nazwaFirmy) {
 
 void zadzwon(int numer) {
     if (numer != numerTelefonu) {
-        komunikat = odpowiedzi[rand() % 3];
-        std::cout<<numer;
+        komunikat = odpowiedzi[rand() % 2];
     } else {
-        komunikat = "";
-        std::cout<<numer;
+        komunikat = "Dzien dobry witamy w dziale fotowoltaiki Wroclaw.";
     }
 }
 
 bool test(){
-    if(solution() == numerTelefonu){
+    if(solution() != numerTelefonu){
         komunikat = odpowiedzi[rand() % 2];
-        return true;
+        return false;
     }
     else{
-        return false;
+        return true;
     }
 }
