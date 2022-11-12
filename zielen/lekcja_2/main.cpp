@@ -36,8 +36,8 @@ void zadzwon(int numer) {
 }
 
 bool test(){
+    zadzwon(solution());
     if(solution() != numerTelefonu){
-        komunikat = odpowiedzi[rand() % 2];
         return false;
     }
     else{
