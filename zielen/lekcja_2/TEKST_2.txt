@@ -1,33 +1,33 @@
 UWAGA!!! LAWINA!!! DOTRZE ZA 30 SEKUND!!!
-Otwierasz plecak. Jest tam identyfikator i Poradnik C++. Dobrze rozwi�za�e� zagadk�!
+Otwierasz plecak. Jest tam identyfikator i Poradnik C++. Dobrze rozwiązałeą zagadkę!
 Biegnesz przez dom do piwnicy. !!! 10 SEKUND !!!
-Ju� otwierasz schron, ale karta ci wypad�a. !!! 5 SEKUND !!!
+Już otwierasz schron, ale karta ci wypadła. !!! 5 SEKUND !!!
 Drzwi otwarte....
 
-Uda�o ci si� zd��y� na czas! W schronie czekasz 5 minut. Po tym czasie postanawiasz opu�ci� schronienie.
-W�a�nie wychodzisz, kiedy RASU ci przerywa:
-- Nie mo�esz wyj��. Na zewn�trz s� jacy� nieznani ludzie, nie ratownicy, kt�rzy przeszukuj� teren naoko�o. To prawdodobnie ci co spowodowali lawin�. Na szcz�cie ze schronu masz po��czenie Undeground Egological Railway. IEA chce �eby� wyruszy� w okolice Wroc�awia.
+Udało ci się zdążyć na czas! W schronie czekasz 5 minut. Po tym czasie postanawiasz opuścić schronienie.
+Właśnie wychodzisz, kiedy RASU ci przerywa:
+- Nie możesz wyjść. Na zewnątrz są jacyś nieznani ludzie, nie ratownicy, którzy przeszukuja teren naokoło. To prawdodobnie ci co spowodowali lawinę. Na szcz�cie ze schronu masz po��czenie Undeground Egological Railway. IEA chce żebyś wyruszył w okolice Wrocławia.
 - A dlaczego akurat tam?
-- To s� okolice domniemanego pochodzenia sprawc�w lawiny, kt�ra mia�a ci� unieszkodliwi�. Wyruszajmy!
+- To są okolice domniemanego pochodzenia sprawców lawiny, która miała cię unieszkodliwić. Wyruszajmy!
 - Czekaj, jeszcze nie!
 - Dlaczego?
-- Agencja nie odwa�y�a si� przekaza� tego robotowi, ale posiadam bardzo wa�ny pendrive. Mia�em go chroni�. Podejrzewam �e to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szcz�cie jest w tym schronie. 
-Otwierasz sejf swoim identyfikatorem, wyjmujesz ma�e stalowe pude�eczko i wychodzisz tajnym w�azem pod odsuwan� szaf�.
+- Agencja nie odważyła się przekazać tego robotowi, ale posiadam bardzo ważny pendrive. Miałem go chronić. Podejrzewam, że to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szcz�cie jest w tym schronie. 
+Otwierasz sejf swoim identyfikatorem, wyjmujesz małe stalowe pudełeczko i wychodzisz tajnym włazem pod odsuwaną szafą.
 
-W poci�gu RASU dostaje pilny komunikat:
-- Odnaleziono odpowiedzialnych za sprawc�w lawiny. To Provivolt, wiod�ca firma energetyczna na �wiecie. Od lat sabotuj� agencj�, ale odwa�yli si� spowodowa� lawin�, co oznacza, �e maj� du�e wp�ywy i zamierzaj� je wykorzysta�. Musisz ich powstrzyma�! Nie sam oczywi�cie. Po dotarciu musisz na piechot� doj�� do Wroc�awia i tam stawi� si� na oddziale IEA.
-- Musz� na piechot�?
-- W komunikacji na wsi b�dziesz �atwo rozpoznawalny, a w mie�cie wtopisz si� w t�um. Spokojnie, to tylko 20 km.
+W pociągu RASU dostaje pilny komunikat:
+- Odnaleziono odpowiedzialnych za sprawców lawiny. To Provivolt, wiodąca firma energetyczna na świecie. Od lat sabotują agencję, ale odważyli się spowodować lawinę, co oznacza, że mają duże wpływy i zamierzają je wykorzystać. Musisz ich powstrzymać! Nie sam oczywiście. Po dotarciu musisz na piechotę dojść do Wrocławia i tam stawić się na oddziale IEA.
+- Muszę na piechotę?
+- W komunikacji na wsi będziesz łatwo rozpoznawalny, a w mieście wtopisz się w tłum. Spokojnie, to tylko 20 km.
 - ILE?!
 
-Po dw�ch godzinach jeste�cie nareszcie w Brzeziej ��ce. Ma�a miejscowo�� niedaleko Wroc�awia. Wydaje si� normalna, ale w centrum stoi ma�y budynek Provivoltu, a wed�ug informacji udzielonych przez IEA nie ma tu domu nie korzystaj�cego z "brudnej" energii. 
-- Przyda�oby si� zorganizowa� tu fotowoltaik�...
-- Nie ma szans. Burmistrz jest jednym z udzia�owc�w Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego mo�esz spotka� si� z nieprzychylno�ci� mieszka�c�w. Po trzecie nie masz ze sob� �adnych plan�w ani materia��w.
-- Zapomnia�e�, �e mam ze sob� Poradnik C++, poza tym jestem jednym z najlepszych agent�w.
+Po dwóch godzinach jesteście nareszcie w Brzeziej ��ce. Mała miejscowość niedaleko Wrocławia. Wydaje się normalna, ale w centrum stoi mały budynek Provivoltu, a według informacji udzielonych przez IEA nie ma tu domu nie korzystającego z "brudnej" energii. 
+- Przydałoby się zorganizować tu fotowoltaikę...
+- Nie ma szans. Burmistrz jest jednym z udziałowców Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego możesz spotkać się z nieprzychylnością mieszkańców. Po trzecie nie masz ze sobą żadnych planów ani materiałów.
+- Zapomniałeś, że mam ze sobą Poradnik C++, poza tym jestem jednym z najlepszych agentów.
 - Co, zrobisz to sam?
-- Tak, zrobi� to sam!
+- Tak, zrobię to sam!
 - Ale jak?
-- Ju� ja wiem jak... 
+- Już ja wiem jak... 
 
 ----------------------------------------
 
@@ -35,4 +35,4 @@ PODPOWIEDZ:
 
 Musisz odkryc numer typka z fotowoltaiki... Ale jak? Masz dostep do specjalnej funkcji zhakuj().
 Jako argument podajesz nazwe firmy. Funkcja ta zwraca poprawny numer tylko wtedy, kiedy poprawnie
-wpiszesz nazwe najwiekszej firmy energetycznej na swiecie i dodasz na koncu napis FOTOWOLTAIKA. 
+wpiszesz nazwe największej firmy energetycznej na swiecie i dodasz na koncu napis FOTOWOLTAIKA. 
