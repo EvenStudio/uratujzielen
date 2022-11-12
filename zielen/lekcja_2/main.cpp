@@ -36,3 +36,13 @@ void zadzwon(int numer) {
         std::cout<<numer;
     }
 }
+
+bool test(){
+    if(solution() == numerTelefonu){
+        komunikat = odpowiedzi[rand() % 2];
+        return true;
+    }
+    else{
+        return false;
+    }
+}
