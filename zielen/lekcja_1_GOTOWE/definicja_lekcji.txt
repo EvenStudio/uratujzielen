@@ -1,8 +1,16 @@
-plik_x
-widoczny: TAK/NIE
-do edycji: TAK/NIE
+solution.cpp
+widoczny: TAK
+do edycji: TAK
 
-output: TAK/NIE
-testy: TAK/NIE
-liczba testów: n
-min_zaliczonych: n
+main.h
+widoczny: NIE
+do edycji: NIE
+
+main.cpp
+widoczny: TAK
+do edycji: NIE
+
+output: NIE
+testy: TAK
+liczba testów: 1
+min_zaliczonych: 1
