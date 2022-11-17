@@ -13,4 +13,10 @@ Poprawka. To już nie jest najdziwniejsze. Z dna wychyla się czteropalczasta, p
 - Wiitam - głos trzęsię ci się ze strachu - co się stało?
 - Ja rozbić się podczas misja zwiadowcza. Nasza cywilizacja chcieć wiedza o wasza cywilizacja. Ja nie jeść i nie pić od czterech pokarlów. To być dwa ziemia doba. Ja potrzebować jedzenie i picie. Azor też.
 Wyjmujesz bidon, racje żywnościowe i dzielisz się z resztą.
-- Postaram się wam jakoś pomóc. Tylko powiedzcie jak. Azorowi też pomogę.
+- Postaram się wam jakoś pomóc. Tylko powiedzcie jak. Azorowi też pomogę, ale najpierw muszę się
+    zająć fotowoltaiką. Dostałem już materiały od typka, więc nie powinno pójść trudno.
+
+PODPOWIEDŹ:
+
+Masz 10 paneli. Musisz w jak najbardziej optymalny sposób napisać algorytm, który sprawdza, czy panel jest sprawny i go zamontować.
+Użyj pętli "for"!
