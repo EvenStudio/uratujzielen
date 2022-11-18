@@ -1,11 +1,1 @@
-plik_x
-widoczny: TAK/NIE
-do edycji: TAK/NIE
-
-string_query: SELECT * FROM panele ORDER BY produkowana_energia DESC, cena DESC LIMIT 10
 result_query: SELECT * FROM panele ORDER BY produkowana_energia DESC, cena DESC LIMIT 10
-
-output: TAK/NIE
-testy: TAK/NIE
-liczba testów: n
-min_zaliczonych: n

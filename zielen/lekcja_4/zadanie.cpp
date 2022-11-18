@@ -1,4 +1,4 @@
-#include "main.h"
+#include "zadanie.h"
 
 bool test(){
     return false;
