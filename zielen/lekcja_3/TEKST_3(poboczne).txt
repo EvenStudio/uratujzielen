@@ -14,6 +14,6 @@ Poprawka. To już nie jest najdziwniejsze. Z dna wychyla się czteropalczasta, p
 - Ja rozbić się podczas misja zwiadowcza. Nasza cywilizacja chcieć wiedza o wasza cywilizacja. Ja nie jeść i nie pić od czterech pokarlów. To być dwa ziemia doba. Ja potrzebować jedzenie i picie. Azor też.
 Wyjmujesz bidon, racje żywnościowe i dzielisz się z resztą.
 - Postaram się wam jakoś pomóc. Tylko powiedzcie jak. Azorowi też pomogę, ale najpierw muszę się
-    zająć fotowoltaiką. Dostałem już materiały od typka, więc nie powinno pójść trudno.
+zająć fotowoltaiką. Dostałem już materiały od typka, więc nie powinno pójść trudno.
 
 W bazie danych znajduje się lista 1000 różnych modeli panelów fotowoltaicznych. Musisz napisać zapytanie SQL, które wybierze 10 z nich z największym współczynnikiem produkowanej energii.
