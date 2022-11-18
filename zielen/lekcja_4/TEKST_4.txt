@@ -1,10 +1,18 @@
-Nareszcie jesteś we Wrocławiu. Co prawda to tylko obrzeża, ale przynajmniej możesz już wsiąść w komunikację miejską bez wzbudzania podejrzeń. RASU chowasz w walizce. Jedziesz tramwajem, w celu dotarcia do rynku //na rynek, ale na Moście Grunwaldzkim robot odzywa się cicho:
+Nareszcie jesteś we Wrocławiu. Co prawda to tylko obrzeża, ale przynajmniej możesz już wsiąść w komunikację miejską bez wzbudzania podejrzeń. RASU chowasz w walizce. Jedziesz tramwajem, w celu dotarcia na rynek, ale na Moście Grunwaldzkim robot odzywa się cicho:
 - Wysiądź.
 RASU pewnie nie powie ci o co chodzi, ponieważ jest tu trochę ludzi. Oddalasz się w stronę Politechniki Wrocławskiej, idąc brzegiem Odry. Kiedy właśnie mijasz "Serowiec",teraz opustoszały z powodu wakacji, robot znowu przemawia, tym razem głośniej:
 - Idziesz na szczęście w dobrą stronę. Za kilometr znajdziesz Stację Badawczą i Oczyszczającą "ODRA" IEA. Odczyty z rzeki są tragiczne. Można tu znaleźć pół tablicy Mendelejewa. Agencja wysyła cię tam, abyś im pomógł oczyścić Odrę za pomocą wyszkolenia i doświadczenia. Do tego nie jest to dla mnie jasne, ale komunikat mówi też "frytki z kawiorem".
 - Na szczęście ja wiem co on oznacza. W tej stacji znajdę lokalizację człowieka, któremu mam oddać pendrive'a. W drogę!
 
 Po 5 minutach stoisz przed małym budynkiem w kształcie rotundy. Jest on ukryty za drzewami i zaroślami. Używasz swojego identyfikatora, aby otworzyć drzwi, i ukazuje ci się niezwykły widok. Na środku hali znajduje się duży zbiornik z wodą, a obok niego pracują w dużym stresie jacyś ludzie. Obsługują oni bardzo nowoczesne i skomplikowane maszyny, a wszystkie z nich pokazują ostrzeżenia, czerwone wykrzykniki i inne niezbyt optymistyczne sygnały. Podchodzi do ciebie człowiek w kitlu:
-- Dzień dobry. Jestem profesor Mikołaj Dipol. Obecnie zarządzam tą placówką. Potrzebujemy twojej pomocy, agencie PL-4638. Odra jest w fatalnym stanie, ale ty na pewno posiadasz umiejętności zdolne pomóc. Jak skończysz pracę, to postawię ci frytki z kawiorem w bufecie. Zaczynamy?
+- Dzień dobry. Jestem profesor Mikołaj Dipol. Obecnie zarządzam tą placówką. Potrzebujemy twojej pomocy, agencie PL-4638. Odra jest w fatalnym stanie, a nasze maszyny sie psują. Na pewno posiadasz takie umiejętności, aby nam pomóc. Jak skończysz pracę, to postawię ci frytki z kawiorem w bufecie. Zaczynamy?
 Zdajesz sobie sprawę, że musisz się zgodzić, bo inaczej cała misja będzie nieudana:
 - Zaczynamy!
+
+*zaglądasz do podręcznika*
+
+- Hmm. Mam tu doskonale opisane, jak naprawić te maszyny. Z tego, co widzę, to zepsuty jest agregat prądotwórczy. Nie działa jeden z modułów zasilających. - mówisz
+Spośród 100 agregatorów, musisz wybrać jeden niedziałający i użyć metody usuń(). Wtedy, dla każdego innego agregatu będziesz musiał zwiększyć moc o 1%. Do tego użyj metody powerUp();
+Jak to zrobisz, urządzenia znowu będą w stanie czyścić Odrę tak, jak należy! Jeśli nie, to biedny Wrocław spotka katastrofa!
+
+Powodzenia!
