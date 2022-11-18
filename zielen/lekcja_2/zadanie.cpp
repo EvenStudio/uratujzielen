@@ -1,6 +1,5 @@
 #include "zadanie.h"
 #include <cstdlib>
-#include "solution.cpp"
 
 int numerTelefonu = 501098268;
 
