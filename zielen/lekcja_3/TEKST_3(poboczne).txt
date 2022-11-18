@@ -1,4 +1,4 @@
-Droga robi się już męcząca. Musisz chodzić po lasach, daleko od dróg, aby nikt cie nie zobaczył. A tym bardziej by nie zobaczył małego robota zaraz obok ciebie. Krajobraz jest monotonny, wszędzie małe domki, drzewa, łąki i trochę pól. Jesteś już za Śliwicami, kiedy postanawiasz zrobićź sobie przerwę. Przysiadasz pod drzewem i wyjmujesz bidon z wodą, kiedy RASU ci przerywa:
+Droga robi się już męcząca. Musisz chodzić po lasach, daleko od dróg, aby nikt cie nie zobaczył. A tym bardziej by nie zobaczył małego robota zaraz obok ciebie. Krajobraz jest monotonny, wszędzie małe domki, drzewa, łąki i trochę pól. Jesteś już za Śliwicami, kiedy postanawiasz zrobić sobie przerwę. Przysiadasz pod drzewem i wyjmujesz bidon z wodą, kiedy RASU ci przerywa:
 - Interesujące. Odbieram jakieś dziwne sygnały z lasu za twoimi plecami. Nie są jednak w żadnym znanym mi standardzie nadawania, więc nie potrafię ich odczytać.
 - Chyba powinienem pójść to sprawdzić. Ale to jest jednak dziwne...
 
@@ -16,7 +16,4 @@ Wyjmujesz bidon, racje żywnościowe i dzielisz się z resztą.
 - Postaram się wam jakoś pomóc. Tylko powiedzcie jak. Azorowi też pomogę, ale najpierw muszę się
     zająć fotowoltaiką. Dostałem już materiały od typka, więc nie powinno pójść trudno.
 
-PODPOWIEDŹ:
-
-Masz 10 paneli. Musisz w jak najbardziej optymalny sposób napisać algorytm, który sprawdza, czy panel jest sprawny i go zamontować.
-Użyj pętli "for"!
+W bazie danych znajduje się lista 1000 różnych modeli panelów fotowoltaicznych. Musisz napisać zapytanie SQL, które wybierze 10 z nich z największym współczynnikiem produkowanej energii.
