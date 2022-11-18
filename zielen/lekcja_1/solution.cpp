@@ -2,5 +2,5 @@
 
 int solution(){
 	return 0;
-	//return Plecak::wywolaj(NIEBIESKI);
+	//return Plecak::wywolaj(KOLOR);
 }
