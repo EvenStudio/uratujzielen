@@ -1,4 +1,4 @@
-#include "main.h"
+#include "zadanie.h"
 #include <cstdlib>
 #include "solution.cpp"
 

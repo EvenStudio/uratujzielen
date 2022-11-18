@@ -1,7 +1,7 @@
 CREATE TABLE mytable(
    id                  INTEGER  NOT NULL PRIMARY KEY 
-  ,model               VARCHAR(7) NOT NULL
-  ,firma               VARCHAR(24) NOT NULL
+  ,model               TEXT NOT NULL
+  ,firma               TEXT NOT NULL
   ,szerokosc           INTEGER  NOT NULL
   ,wysokosc            INTEGER  NOT NULL
   ,produkowana_energia INTEGER  NOT NULL
