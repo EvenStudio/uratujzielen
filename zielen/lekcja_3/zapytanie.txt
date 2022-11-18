@@ -1,0 +1,1 @@
+SELECT * FROM mytable ORDER BY produkowana_energia DESC, cena DESC LIMIT 10
