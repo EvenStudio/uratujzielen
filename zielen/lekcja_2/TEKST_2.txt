@@ -29,10 +29,6 @@ Po dwóch godzinach jesteście nareszcie w Brzeziej łące. Mała miejscowość 
 - Ale jak?
 - Już ja wiem jak... 
 
-----------------------------------------
-
-PODPOWIEDZ:
-
 Musisz odkryc numer typka z fotowoltaiki... Ale jak? Masz dostep do specjalnej funkcji zhakuj().
 Jako argument podajesz nazwe firmy. Funkcja ta zwraca poprawny numer tylko wtedy, kiedy poprawnie
-wpiszesz nazwe największej firmy energetycznej na swiecie i dodasz na koncu napis FOTOWOLTAIKA. 
+wpiszesz nazwe największej firmy energetycznej na swiecie i dodasz na koncu napis FOTOWOLTAIKA. Funkcja solution() ma zwracać numer typka z fotowoltaiki.
