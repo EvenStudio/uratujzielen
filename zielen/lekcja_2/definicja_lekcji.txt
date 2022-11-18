@@ -3,11 +3,11 @@ widoczny: TAK
 do edycji: TAK
 
 main.h
-widoczny: NIE
+widoczny: TAK
 do edycji: NIE
 
 main.cpp
-widoczny: TAK
+widoczny: NIE
 do edycji: NIE
 
 output: TAK
