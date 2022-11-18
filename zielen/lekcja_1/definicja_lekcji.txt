@@ -2,11 +2,11 @@ solution.cpp
 widoczny: TAK
 do edycji: TAK
 
-main.h
+zadanie.h
 widoczny: TAK
 do edycji: NIE
 
-main.cpp
+zadanie.cpp
 widoczny: NIE
 do edycji: NIE
 
