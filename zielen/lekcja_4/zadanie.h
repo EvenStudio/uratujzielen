@@ -1,17 +1,12 @@
 #pragma once
 #include <vector>
 
-bool test();
+void napraw(int numerUrzadzenia);
 
-struct Agregat {
-    int ID;
-    bool CzyDziala;
+struct Urzadzenie{
+    int numer;
+    std::string nazwa;
+    bool dziala;
 };
 
-class Maszyna {
-    public:
-        Agregat* agregaty[99];
-        Maszyna();
-};
-
-Maszyna* maszyna = new Maszyna();
+Urzadzenie urzadzenia[50];

@@ -11,8 +11,7 @@ Zdajesz sobie sprawę, że musisz się zgodzić, bo inaczej cała misja będzie 
 
 *zaglądasz do podręcznika*
 
-- Hmm. Mam tu doskonale opisane, jak naprawić te maszyny. Z tego, co widzę, to zepsuty jest agregat prądotwórczy. Nie działa jeden z modułów zasilających. - mówisz
-Spośród 100 agregatorów, musisz wybrać jeden niedziałający i użyć metody usuń(). Wtedy, dla każdego innego agregatu będziesz musiał zwiększyć moc o 1%. Do tego użyj metody powerUp();
+- Musisz znaleźć zepsute urządzenia, a następnie je naprawić i wykonać restart systemu. UWAGA! Jeżeli będziesz próbował naprawić działające urządzenie, jest duża szansa, że się zepsuje.
 Jak to zrobisz, urządzenia znowu będą w stanie czyścić Odrę tak, jak należy! Jeśli nie, to biedny Wrocław spotka katastrofa!
 
 Powodzenia!
