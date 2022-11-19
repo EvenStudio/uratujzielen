@@ -1,6 +1,4 @@
-#include <solution.cpp>
-#include <zadanie.cpp>
-#include <zadanie.h>
+#include "solution.cpp"
 
 bool test(){
     zadzwon(solution());
