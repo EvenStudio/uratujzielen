@@ -8,8 +8,9 @@
 std::ofstream Funkcja("main.cpp");
 
 int main(){
+    start:
     std::string mainfile;
-    std::cout << "Główny plik do kompilacji:";
+    std::cout << "Glowny plik do kompilacji:";
     std::cin >> mainfile;
     Funkcja << "#include <iostream>" << "\n" << "#include " << '"' << mainfile << '"' << "\n" << "int main(){if(test() == true){std::cout <<" << '"' << "Dobrze, komunikat:" << '"'<< ";std::cout << komunikat;}else{std::cout <<"<< '"' << "Zle, komunikat:" << '"' << ";std::cout << komunikat;}return 0;}";
     Funkcja.close();
@@ -18,4 +19,5 @@ int main(){
     remove("main.cpp");
     remove("a");
     remove("a.exe");
+    system("pause");
 }
