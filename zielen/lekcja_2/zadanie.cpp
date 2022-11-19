@@ -34,13 +34,3 @@ void zadzwon(int numer) {
         komunikat = "Dzien dobry witamy w dziale fotowoltaiki Wroclaw. Czy jest Pan zainteresowany naszą ofertą?";
     }
 }
-
-bool test(){
-    zadzwon(solution());
-    if(solution() != numerTelefonu){
-        return false;
-    }
-    else{
-        return true;
-    }
-}
