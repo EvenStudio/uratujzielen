@@ -19,5 +19,6 @@ int main(){
     remove("main.cpp");
     remove("a");
     remove("a.exe");
+    std::cout << "\n";
     system("pause");
 }
