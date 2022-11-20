@@ -2,6 +2,7 @@
 #include <vector>
 
 void napraw(int numerUrzadzenia);
+void restart();
 
 struct Urzadzenie{
     int numer;
