@@ -31,6 +31,6 @@ void zadzwon(int numer) {
     if (numer != numerTelefonu) {
         komunikat = odpowiedzi[rand() % 2];
     } else {
-        komunikat = "Dzien dobry witamy w dziale fotowoltaiki Wroclaw. Czy jest Pan zainteresowany naszą ofertą?";
+        komunikat = "Dzien dobry, witamy w dziale fotowoltaiki Wroclaw. Czy jest Pan zainteresowany naszą ofertą?";
     }
 }
