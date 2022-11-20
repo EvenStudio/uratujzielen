@@ -15,8 +15,6 @@ std::string nazwy[10]{
 bool systemOn = false;
 bool poprawne = true;
 
-std::string komunikat = "";
-
 void losuj(){
     for(int i = 0; i < 50; i++){
         urzadzenia[i].numer = i+100;
@@ -31,7 +29,7 @@ void losuj(){
 }
 
 void napraw(int numerUrzadzenia){
-    if(urzadzenia[numerUrzadzenia - 100].dziala = false){
+    if(urzadzenia[numerUrzadzenia - 100].dziala == false){
         urzadzenia[numerUrzadzenia - 100].dziala = true;
     }
     else{
@@ -43,21 +41,4 @@ void napraw(int numerUrzadzenia){
 
 void restart(){
     systemOn = true;
-}
-
-bool test(){
-    losuj();
-    for(int i = 0; i < 50; i++){
-        if(urzadzenia[i].dziala == false){
-            poprawne = false;
-        }
-    }
-    if(poprawne == true && systemOn == true){
-        return true;
-        komunikat = "Gratulacje, udało ci się uratować Wrocław!";
-    }
-    else{
-        komunikat = "Niestety nadal nie działają wszystkie maszyny, lub nie zrobiłeś restartu systemu.";
-        return false;
-    }
 }
