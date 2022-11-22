@@ -1,8 +1,1 @@
-plik_x
-widoczny: TAK/NIE
-do edycji: TAK/NIE
-
-output: TAK/NIE
-testy: TAK/NIE
-liczba testów: n
-min_zaliczonych: n
+result_query:SELECT * FROM sygnaly WHERE lokalizacja="Wrocław" AND urzadzenie="nadajnik"
