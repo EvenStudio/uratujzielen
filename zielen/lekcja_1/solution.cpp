@@ -1,5 +1,6 @@
 #include <iostream>
+#include <string>
 
-string solution() {
+std::string solution() {
     return "kolorplecaka";
 }
