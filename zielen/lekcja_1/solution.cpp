@@ -1,5 +1,5 @@
-#include "zadanie.cpp"
+#include <iostream>
 
-typPlecaka solution(){
-	return KOLOR;
+string solution() {
+    return "kolorplecaka";
 }
