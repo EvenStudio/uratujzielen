@@ -35,8 +35,8 @@ int Plecak::wywolaj(typPlecaka typ) {
 
 bool Plecak::test(bool a){
 	if(a){
+		komunikat = "Gratulacje! Teraz musisz szybko uciekać, zanim lawina Cie dorwie!"; //poprawic polskie znaki bo u mnie nie ma .-.
 		return true;
-		komunikat = "Gratulacje! Teraz musisz szybko uciekac, zanim lawina Cie dorwie!"; //poprawic polskie znaki bo u mnie nie ma .-.
 	}
 
 	return false;
