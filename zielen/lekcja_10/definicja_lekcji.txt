@@ -1,8 +1,0 @@
-plik_x
-widoczny: TAK/NIE
-do edycji: TAK/NIE
-
-output: TAK/NIE
-testy: TAK/NIE
-liczba testów: n
-min_zaliczonych: n
