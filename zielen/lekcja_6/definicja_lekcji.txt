@@ -1,1 +1,1 @@
-result_query: SELECT * FROM sygnaly WHERE lokalizacja="Wrocław" AND urzadzenie="nadajnik"
+result_query: SELECT * FROM sygnaly WHERE miasto="Wrocław" AND urzadzenie="Nadajnik"
