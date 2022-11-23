@@ -1,11 +1,12 @@
 #include <iostream>
+#include <string>
 #include "solution.cpp"
 using namespace std;
 
-string komunikat = " ";
+string komunikat = "";
 
 bool test() {
-    if (solution() == "niebieski")
+    if (solution() == "niebieski" || solution() == "Niebieski" || solution() == "NIEBIESKI")
         {
             komunikat = "";
             return true;
