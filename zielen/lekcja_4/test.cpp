@@ -11,8 +11,8 @@ bool test(){
         }
     }
     if(poprawne == true && systemOn == true){
-        return true;
         komunikat = "Gratulacje, udało ci się uratować Wrocław!";
+        return true;
     }
     else{
         komunikat = "Niestety nadal nie działają wszystkie maszyny, lub nie zrobiłeś restartu systemu.";
