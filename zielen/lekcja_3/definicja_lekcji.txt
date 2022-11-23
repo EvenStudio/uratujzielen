@@ -1,1 +1,1 @@
-result_query: SELECT * FROM paneleUkryta ORDER BY produkowana_energia DESC, cena DESC LIMIT 10
+result_query: SELECT * FROM paneleUkryte ORDER BY produkowana_energia DESC, cena DESC LIMIT 10
