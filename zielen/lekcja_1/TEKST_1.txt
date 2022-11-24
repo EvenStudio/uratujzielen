@@ -27,7 +27,6 @@ Lista przedmiotów w nich umieszczonych (to są przedmioty dodatkowe): poradnik 
 Podpowiedzi:
 - W każdym plecaku są dwie rzeczy
 - GPS i książka znajdują się w kolorach przeciwstawnych (losowa kolejność)
-- długopis nie jest razem z książką
 - śpiwór i podręcznik są razem
 - poradnik elektryka jest w niebieskim plecaku
 - lornetka nie jest w niebieskim plecaku
