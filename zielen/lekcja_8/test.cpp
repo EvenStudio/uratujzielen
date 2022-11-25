@@ -4,7 +4,7 @@
 std::string komunikat = "";
 
 bool test(solution()) {
-    if (kodzabezpieczajacy == 8271)
+    if (kodzabezpieczajacy == 87256387841)
     {
         komunikat = "Tak! Misja wykonana!";
         return true;
