@@ -3,3 +3,4 @@ Program Wysyła dwie odpowiedzi(dobrze lub zle) i wartość zmiennej komunkiat p
 Program można skompilować samemu, używając komendy: g++ -o tester.exe kompilacja.cpp -DUNICODE -municode.
 Do poprawnego działania programu wymagane jest posiadanie kompilatora g++ dodanego do PATH systemowego.
 Nie jest zalecane włączanie programu z terminala.
+Aktualna wersja jest na windowsa
