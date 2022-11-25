@@ -1,15 +1,28 @@
-podpowiedz: Pamietaj o dziwnych znakach!
+﻿Co z tego jak masz algorytm, skoro nie znasz piętra?
+Na szczęście Zbigniew i Janusz przybywają na ratunek! W stanie upojenia płynnymi substancjami psychoaktywnymi mamrotali coś w stylu:
+- Ale... zmęczony.... dlaczego... schowek... aż na osiemnastym...,
+co ty podsłuchałeś
+Wiesz jakie jest piętro.
+Wchodzisz do windy. Ze ściany wyskakuje konsola, a ty wpisujesz odpowiedni numer. Po około 30 sekundach drzwi się otwierają, a ty widzisz napis "Serwerownia".
 
-Uda�o ci si� odnale�� dobre pi�tro.
-- RASU, słyszysz to, co ja?
-- Ta-ak. - odpowiada
-Słyszycie głosy straników z za ściany. Mówią jakieś losowe cyfry, liczby... nie mozesz tego zapamiętać!
-- RASU, zapamiętaj to. To moze sie przydać...
+Udało ci się odnaleźć dobre piętro!
 
-Po krótszej chwili zblizacie się do serwerowni. Przez oszklone �ciany pomieszczenia widzisz pendrive z logiem IEA wpi�ty w jeden z komputer�w. Zlokalizowa�e� cel. Szkoda �e dzwi s� zamkni�te. Sa zabezpieczone has�em. Musisz je z�ama�, a masz na to troch� czasu bo RASU juz dawno zap�tli� monitoring. W sumie RASU sie przyda do czego� jeszcze. Ma program deszyfruj�cy, co jest w obecnej sytuacji bardzo przydatne. U�yj programu, aby otworzy� drzwi!
-
-[łosowiowa ramka
-Juz, juz prawie to mamy! Ale chwila, czym jest kod zabezpieczjący? Przyglądasz się pendrive'owi z dala, jest na nim napisane 827X. X to musi być ostatnia cyfra kodu!
-Na ścianie zauwazasz kartkę. " X = (sin 30 stopni) * 2 ".
-TAK! Teraz tylko trzeba to obliczyć...
+Po krótkiej chwili jesteście przed serwerownią. Przez oszklone ściany pomieszczenia widzisz pendrive z logiem IEA wpięty w jeden z komputerów. Zlokalizowałeś cel. Drzwi do serwerowni są otwarte, pewnie dzięki RASU, który zapętlił też monitoring. Wchodzisz, i już zamierzasz wyjąć pendrive'a, kiedy RASU szeptem ci przerywa:
+- Nie wyjmuj go. Wszystkie pendriv'y IEA czyszczą dane jeżeli zostaną wyjęte bez odszyfrowania.
+Więc idziesz do jedynego komputera z monitorem. Ale na monitorze jest tylko komunikat z logiem IEA w tle:
+"UWAGA NIEAUTORYZOWANY DOSTĘP
+Kontrola nad tym urządzeniem została przejęta dla bezpieczeństwa. Wpisz hasło aby odblokować kompuer i pendrive."
+Macie problem.
+Na szczęście RASU ma program szyfrujący, który zawiera specjalne modyfikacje IEA pozwalające na łamanie ich szyfrów. 
+- RASU, wpinaj się i łam hasło.
+- Okej.
+Po pięciu minutach robot się odłączył:
+- Otóż szyfr to 8725638784X. X to nieznana mi liczba.
+- Na szczęście ja ją znam! Szef mówił mi kiedyś. O ile pamiętam, to było coś w stylu sin 30 stopni * 2. Nie pamiętam ile to jest, w liceum byłem dawno temu. Dobra RASU, otwieraj konsolę, rozwiążemy szyfr w tobie.
+[łososiowa ramka
+W solution() wpisz odpowiedni kod zabezpieczający.
 ]
+
+
+
+
