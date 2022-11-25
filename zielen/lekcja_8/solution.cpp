@@ -1,7 +1,6 @@
 #include <string>
-string kodzabezpieczajacy;
 
-string solution(){
+long long solution(){
     
-    return kodzabezpieczajacy;
+    return 1;
 }

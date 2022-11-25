@@ -3,8 +3,8 @@
 
 std::string komunikat = "";
 
-bool test(solution()) {
-    if (kodzabezpieczajacy == 87256387841)
+bool test() {
+    if (solution() == 87256387841)
     {
         komunikat = "Tak! Misja wykonana!";
         return true;
