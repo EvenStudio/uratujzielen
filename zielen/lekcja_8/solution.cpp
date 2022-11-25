@@ -1,6 +1,6 @@
-#include "zadanie.h"
+#include <string>
 
-int solution(){
+string solution(){
     
-    return 0;
+    return kodzabezpieczajacy;
 }
