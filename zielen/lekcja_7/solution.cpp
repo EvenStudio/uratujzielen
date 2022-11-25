@@ -1,5 +1,7 @@
-#include "zadanie.cpp"
+#include <iostream>
 
-int solution(){
-    return 0;
+int a = 0;
+int solution()
+{
+    return a;
 }
