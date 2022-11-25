@@ -14,4 +14,4 @@ bool test() {
         komunikat = "Nie udało się złamać hasła!";
         return false;
     }
-
+}

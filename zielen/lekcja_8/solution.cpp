@@ -2,5 +2,5 @@
 
 long long solution(){
     
-    return 1;
+    return sin(30);
 }
