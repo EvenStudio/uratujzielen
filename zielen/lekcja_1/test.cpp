@@ -6,8 +6,9 @@ using namespace std;
 string komunikat = "";
 
 bool test() {
+    string kolorplecaka = solution();
     std::transform(kolorplecaka.begin(), kolorplecaka.end(), kolorplecaka.begin(), tolower);
-    if (solution() == "niebieski")
+    if (kolorplecaka == "niebieski")
         {
             komunikat = "Gratulacje! Wybrałeś dobry plecak!";
             return true;
