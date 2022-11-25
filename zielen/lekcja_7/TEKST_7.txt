@@ -12,4 +12,26 @@ Przewróciłeś jakieś metalowe pręty i teraz na pewno usłyszało cię parę 
 - Ciszej! Szybko, ruszajmy.
 Wychodzisz z ukrycia jak tylko zamknęły się drzwi. Po chwili opuszczasz pomieszczenie i po kryjomu postanawiasz przeszukać budynek.
 
-Skradanie się i chowanie przed strażnikami bardzo spowalnia przemieszczanie się. Tracisz powoli nadzieję, kiedy nagle znajdujesz porzucony identyfiator podpisany "Zbigniew Kowalski" i jakąś książeczkę. 
+Skradanie się i chowanie przed strażnikami bardzo spowalnia przemieszczanie się. Tracisz powoli nadzieję, kiedy nagle znajdujesz porzucony identyfiator podpisany "Zbigniew Kowalski" i jakąś kartkę:
+[szara ramka
+"UWAGA ŚCIŚLE TAJNE
+Ze względów bezpieczeństwa w windzie wpisywana jest liczba, która nie oznacza numeru piętra. Dzięki poniższym wskazówkom będziecie w stanie znaleźć docelowe piętro. 
+- liczbę piętra pomnóż przez 5
+- dodaj 12
+- jeżeli bufet: odejmij 24
+- jeżeli biura: pomnóż przez 2
+- jeżeli piętra badawcze: podziel przez 4
+- podziel przez 3
+- jeżeli gabinet ochrony: dodaj 48
+- jeżeli serwerownia: odejmij 65
+- jeżeli sale konferencyjne: pomnóż przez 7
+- jeżeli gabinety szefów: odejmnij 39
+- jeżeli księgowość: podziel przez 5
+- pomnóż przez 2
+- dodaj 19
+Jeżeli wpiszesz otrzymaną w liczbę w konsolę w windzie, dotrzesz do właściwego piętra."
+]
+Nie wiesz na którym piętrze jesteś, a do tego nie chcesz wykonywać wszystkich obliczeń w głowie. Ale od czego jest RASU posiadający wbudowane środowiska programistyczne dla ponad 100 języków! Użyj programowania aby pomóc sobie w życiu.
+[łososiowa ramka
+W funkcję solution() wpisz algorytm, który poprawnie wskaże drogę do serwerowni.
+]
