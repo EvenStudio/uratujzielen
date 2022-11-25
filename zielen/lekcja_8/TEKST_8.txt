@@ -1,1 +1,15 @@
-Uda³o ci siê odnaleŸæ dobre piêtro. Trochê jeszcze unikasz stra¿ników, ale po chwili stajesz przed serwerowni¹. Przez oszklone œciany pomieszczenia widzisz pendrive z logiem IEA wpiêty w jeden z komputerów. Zlokalizowa³eœ cel. Szkoda ¿e dzwi s¹ zamkniête. Sa zabezpieczone has³em. Musisz je z³amaæ, a masz na to trochê czasu bo RASU juz dawno zapêtli³ monitoring. W sumie RASU sie przyda do czegoœ jeszcze. Ma program deszyfruj¹cy, co jest w obecnej sytuacji bardzo przydatne. U¿yj programu, aby otworzyæ drzwi!
+podpowiedz: Pamietaj o dziwnych znakach!
+
+Udaï¿½o ci siï¿½ odnaleï¿½ï¿½ dobre piï¿½tro.
+- RASU, sÅ‚yszysz to, co ja?
+- Ta-ak. - odpowiada
+SÅ‚yszycie gÅ‚osy stranikÃ³w z za Å›ciany. MÃ³wiÄ… jakieÅ› losowe cyfry, liczby... nie mozesz tego zapamiÄ™taÄ‡!
+- RASU, zapamiÄ™taj to. To moze sie przydaÄ‡...
+
+Po krÃ³tszej chwili zblizacie siÄ™ do serwerowni. Przez oszklone ï¿½ciany pomieszczenia widzisz pendrive z logiem IEA wpiï¿½ty w jeden z komputerï¿½w. Zlokalizowaï¿½eï¿½ cel. Szkoda ï¿½e dzwi sï¿½ zamkniï¿½te. Sa zabezpieczone hasï¿½em. Musisz je zï¿½amaï¿½, a masz na to trochï¿½ czasu bo RASU juz dawno zapï¿½tliï¿½ monitoring. W sumie RASU sie przyda do czegoï¿½ jeszcze. Ma program deszyfrujï¿½cy, co jest w obecnej sytuacji bardzo przydatne. Uï¿½yj programu, aby otworzyï¿½ drzwi!
+
+[Å‚osowiowa ramka
+Juz, juz prawie to mamy! Ale chwila, czym jest kod zabezpieczjÄ…cy? PrzyglÄ…dasz siÄ™ pendrive'owi z dala, jest na nim napisane 827X. X to musi byÄ‡ ostatnia cyfra kodu!
+Na Å›cianie zauwazasz kartkÄ™. " X = (sin 30 stopni) * 2 ".
+TAK! Teraz tylko trzeba to obliczyÄ‡...
+]
