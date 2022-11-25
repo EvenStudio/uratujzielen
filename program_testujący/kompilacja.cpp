@@ -25,17 +25,21 @@ int wmain(){
     SetConsoleCP(CP_UTF8);
 //    std::cout.imbue(std::locale("pl_PL"));
 //    std::string name = std::cout.getloc().name();
-    start:
     std::string mainfile;
     std::cout << "Glowny plik do kompilacji:";
     std::cin >> mainfile;
     Funkcja << "#include <iostream>" << "\n" << "#include " << '"' << mainfile << '"' << "\n" << "int main(){test(); if(test() == true){std::cout <<" << '"' << "Dobrze, komunikat:" << '"'<< ";std::cout << komunikat;}else{std::cout <<"<< '"' << "Zle, komunikat:" << '"' << ";std::cout << komunikat;}return 0;}";
     Funkcja.close();
+    start:
     system("g++ main.cpp");
     std::wcout << system("a");
+    std::cout << "Kontynuowac [T/n]";
+    std::cin.clear();
+    if(tolower(getchar()) != 'n'){
+        goto start;
+    }
     remove("main.cpp");
     remove("a");
     remove("a.exe");
     std::wcout << "\n";
-    system("pause");
 }
