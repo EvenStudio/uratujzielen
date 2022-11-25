@@ -40,4 +40,5 @@ Pozdrawiam,
 Musisz się spieszyć!
 
 [Łososiowa ramka
-Na podstawie powyższej zagadki wybierz kolor plecaka, który należy zabrać ze sobą. Funkcja solution() powinna zwracać ten kolor jako string (w cudzysłowiu) zapisany małymi literami.
+Na podstawie powyższej zagadki wybierz kolor plecaka, który należy zabrać ze sobą. Funkcja solution() powinna zwracać ten kolor jako string (w cudzysłowiu) zapisany małymi literami. Jeśli będzie taka potrzeba, odpowiedź może zawierać Polskie znaki.
+]
