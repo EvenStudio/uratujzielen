@@ -2,5 +2,4 @@
 
 long long solution(){
     
-    return sin(30)*2;
 }
