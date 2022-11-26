@@ -17,3 +17,6 @@ Wyjmujesz bidon, racje żywnościowe i dzielisz się z resztą.
 zająć fotowoltaiką. Dostałem już materiały od typka, więc nie powinno pójść trudno.
 
 W bazie danych znajduje się lista 1000 różnych modeli panelów fotowoltaicznych. Musisz napisać zapytanie SQL, które wybierze 10 z nich z największym współczynnikiem produkowanej energii.
+
+Etykietki:
+POMOC_OBCYM
