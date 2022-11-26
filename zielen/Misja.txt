@@ -1,0 +1,26 @@
+Tytuł Misji:
+Kolejność zadań:
+Zadanie 1: (obowiązkowe/nie)
+Zadanie 2: (obowiązkowe/nie)
+Zadanie 3: (obowiązkowe/nie)
+Zadanie 4: (obowiązkowe/nie)
+Zadanie 5: (obowiązkowe/nie)
+Zadanie 6: (obowiązkowe/nie)
+Zadanie 7: (obowiązkowe/nie)
+Zadanie 8: (obowiązkowe/nie)
+Zadanie 9: (obowiązkowe/nie)
+Zadanie 10: (obowiązkowe/nie)
+
+Osiągnięcia:
+1)
+Tytuł: Najlepszy agent IEA!
+Opis: Za powstrzymanie dominacji firmy Provivolt w misji ("tytuł")
+Nazwa etykietki: IEA_MISJA_SKONCZONA
+Licza etykietek: 1
+Plik: iea_puchar.png
+2)
+Tytuł: Współpraca międzyplanetarna
+Opis: Za pomoc obcym z kosmosu w zadaniu (3/4)
+Nazwa etykietki: POMOC_OBCYM
+Liczba etykietek: 1
+Plik: kosmita.png
