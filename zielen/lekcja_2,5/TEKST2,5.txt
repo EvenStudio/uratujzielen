@@ -1,4 +1,15 @@
 Udało ci się znaleźć najlepszą firmę od fotowoltaiki na rynku.
 - Co teraz? - pyta się RASU.
-- Znajdę teraz telefon do konsultanta. Na szczęście mam dostęp do systemów IEA.
-- Powodzenia.
+- Znajdę teraz telefon do konsultanta. Na szczęście mam dostęp do systemów [...].
+- A nie ma tych numerów na ich stronie?
+- Pewnie są, ale tak będzie szybciej
+
+[Łososiowa ramka
+W bazie danych znajdują się dane pracowników różnych firm. Znajdź takiego, który pracuje w firmie, który produkuje interesujący Cię panel (z poprzedniego zadania). Pamiętaj, że musi on pracować w dziale obsługi klienta (w bazie: obsluga klienta
+), mówić po polsku, niemiecku, hiszpańsku, lub niemiecku oraz nie może być na urlopie. Jeżeli jest wielu takich pracowników, wybierz tego, który ma najmniejszy numer ID.
+
+Formatowanie kolumn:
+- jezyk: male litery, bez polski znaków
+- firma: z dużej litery
+- urlop: TAK lub NIE
+]

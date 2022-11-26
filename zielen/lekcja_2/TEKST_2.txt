@@ -29,6 +29,8 @@ Po dwóch godzinach jesteście nareszcie w Brzeziej łące. Mała miejscowość 
 - Ale jak?
 - Już ja wiem jak... 
 
-Musisz odkryc numer typka z fotowoltaiki... Ale jak? Masz dostep do specjalnej funkcji zhakuj().
-Jako argument podajesz nazwe firmy. Funkcja ta zwraca poprawny numer tylko wtedy, kiedy poprawnie
-wpiszesz nazwe największej firmy energetycznej na swiecie i dodasz na koncu napis FOTOWOLTAIKA. Funkcja solution() ma zwracać numer typka z fotowoltaiki.
+Tak się składa, że masz do dyspozycji bazę danych paneli fotowoltaicznych, które są aktualnie dostępne na rynku. W bazie danych znajduje się lista 1000 różnych modeli paneli fotowoltaicznych. Wybierz najlepszy z nich.
+
+[Łososiowa ramka
+Musisz napisać zapytanie SQL, które wybierze najlepszy z paneli (taki, który produkuje najwięcej energii, a jeśli jest takich kilka, to najtańszy z nich). Skorzystaj z funkcji: LIMIT [twoja liczba]
+]
