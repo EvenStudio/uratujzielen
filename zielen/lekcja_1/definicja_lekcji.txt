@@ -1,14 +1,9 @@
+czy_poboczna
+NIE
+
 solution.cpp
 widoczny: TAK
 do edycji: TAK
-
-zadanie.h
-widoczny: TAK
-do edycji: NIE
-
-zadanie.cpp
-widoczny: NIE
-do edycji: NIE
 
 test.cpp
 widoczny: NIE
