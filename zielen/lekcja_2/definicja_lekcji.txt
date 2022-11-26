@@ -1,3 +1,6 @@
+czy_poboczna
+NIE
+
 solution.cpp
 widoczny: TAK
 do edycji: TAK
