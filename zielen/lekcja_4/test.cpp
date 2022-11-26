@@ -1,8 +1,10 @@
 #include "solution.cpp"
+#include <ctime>
 
 std::string komunikat = "";
 
 bool test(){
+    srand(time(NULL));
     losuj();
     solution();
     for(int i = 0; i < 50; i++){
