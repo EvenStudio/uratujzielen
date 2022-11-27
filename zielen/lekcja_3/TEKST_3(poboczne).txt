@@ -12,11 +12,15 @@ Poprawka. To już nie jest najdziwniejsze. Z dna wychyla się czteropalczasta, p
 - W-i-t-a-m. Być przy-bysz. Tłumacz coraz lepszy. Nazywać się Inox z planety Korkok. A ten włochaty całkiem inteligencja organizm to Azor. Znaleźć go przy droga. Mój przyjaciel, ale nie może mi pomóc. Statek zniszczony. Ja potrzebować pomoc.
 - Wiitam - głos trzęsię ci się ze strachu - co się stało?
 - Ja rozbić się podczas misja zwiadowcza. Nasza cywilizacja chcieć wiedza o wasza cywilizacja. Ja nie jeść i nie pić od czterech pokarlów. To być dwa ziemia doba. Ja potrzebować jedzenie i picie. Azor też.
-Wyjmujesz bidon, racje żywnościowe i dzielisz się z resztą.
-- Postaram się wam jakoś pomóc. Tylko powiedzcie jak. Azorowi też pomogę, ale najpierw muszę się
-zająć fotowoltaiką. Dostałem już materiały od typka, więc nie powinno pójść trudno.
+- Jaki jest problem ze statkiem?
+- Nie moć złapać właściwa częstotliwość. Zobacz regulator.
+Patrzysz na regulator częstotliwości. Działają tylko dwa systemy.
+- Te liczby to -7 i +9. Użyć komputer pokładowy, aby mi pomoć. - sugeruje Inox.
 
-W bazie danych znajduje się lista 1000 różnych modeli panelów fotowoltaicznych. Musisz napisać zapytanie SQL, które wybierze 10 z nich z największym współczynnikiem produkowanej energii.
-
+[łososiowa ramka
+W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
+]
 Etykietki:
 POMOC_OBCYM
+PODPOWIEDŹ:
+Użyj pętli for.
