@@ -1,5 +1,5 @@
 #include <cmath>
 
 long long solution(){
-    return 8725638784 * sin(30) * 2;
+    return 87256387840 + (sin(30) * 2);
 }
