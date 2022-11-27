@@ -1,0 +1,17 @@
+
+zadanie.cpp
+widoczny: TAK
+do edycji: NIE
+
+solution.cpp
+widoczny: TAK
+do edycji: TAK
+
+test.cpp
+widoczny: NIE
+do edycji: NIE
+
+output: TAK
+testy: TAK
+liczba testów: 10
+min_zaliczonych: 9
