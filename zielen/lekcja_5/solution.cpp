@@ -1,5 +1,7 @@
-#include "zadanie.h"
+#include "zadanie.cpp"
+#include <cstdio>
 
-std::pair<std::string, std::string> solution(){
-    return std::make_pair("Pomnik", "Wyspa...");
+int solution(){
+    //
+    return 0;
 }

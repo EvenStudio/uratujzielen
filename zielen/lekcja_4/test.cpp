@@ -1,24 +1,19 @@
 #include "solution.cpp"
-#include <ctime>
 
-std::string komunikat = "";
-bool poprawne = true;
+std::string komunikat = " ";
 
-bool test(){
-    srand(time(NULL));
-    losuj();
-    solution();
-    for(int i = 0; i < 50; i++){
-        if(urzadzenia[i].dziala == false){
-            poprawne = false;
-        }
-    }
-    if(poprawne == true && systemOn == true){
-        komunikat = "Gratulacje, udało ci się uratować Wrocław!";
-        return true;
-    }
-    else{
-        komunikat = "Niestety nadal nie działają wszystkie maszyny, lub nie zrobiłeś restartu systemu.";
-        return false;
-    }
+bool test()
+{
+  srand(time(NULL));
+  a = rand() %100000;
+  b = rand() %100000;
+  KopiaAKtorejNaPewnoNieOdgadna = a;
+  int d = b;
+  solution();
+  if (KopiaAKtorejNaPewnoNieOdgadna == b) 
+  {
+    komunikat = "Udało ci się pomóc kosmicie! Dzięki tobie może on wrócić do domu. Po chwili nadlatuje statek identyczny do tego, którym przyleciał Inox. Kosmita się żegna, daje jedzenie Azorowi i wchodzi do statku, zostawiając psa. Po chwili odlatuje.";
+    return true;   
+  }
+  else {komunikat = "Nie udało ci się pomóc kosmicie."; return false;}
 }

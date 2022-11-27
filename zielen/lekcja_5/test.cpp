@@ -1,24 +1,24 @@
 #include "solution.cpp"
-#include <algorithm>
+#include <ctime>
 
 std::string komunikat = "";
+bool poprawne = true;
 
 bool test(){
-    std::pair<std::string, std::string> rozwiazanie = solution();
-    std::string a = rozwiazanie.first;
-    std::string b = rozwiazanie.second;
-    std::transform(a.begin(), a.end(), a.begin(), tolower);
-    std::transform(b.begin(), b.end(), b.begin(), tolower);
-    if(a == "szachisci" || a == "szachiści"){
-        if (b == "wyspa bielarska")
-        {
-            komunikat = "Gratulacje, znalazłeś frytkę!";
-            return true;
+    srand(time(NULL));
+    losuj();
+    solution();
+    for(int i = 0; i < 50; i++){
+        if(urzadzenia[i].dziala == false){
+            poprawne = false;
         }
-        else{goto f;}     
     }
-    else{goto f;}
-    f:
-    komunikat = "Niestety nie ma tu frytki";
-    return false;
+    if(poprawne == true && systemOn == true){
+        komunikat = "Gratulacje, udało ci się uratować Wrocław!";
+        return true;
+    }
+    else{
+        komunikat = "Niestety nadal nie działają wszystkie maszyny, lub nie zrobiłeś restartu systemu.";
+        return false;
+    }
 }

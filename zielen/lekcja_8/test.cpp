@@ -1,17 +1,21 @@
 #include "solution.cpp"
 #include <iostream>
+using namespace std;
 
-std::string komunikat = "";
-
-bool test() {
-    if (solution() == 87256387841)
-    {
-        komunikat = "Tak! Misja wykonana!";
-        return true;
-    } 
-    else 
-    {
-        komunikat = "Nie udało się złamać hasła!";
-        return false;
-    }
+string komunikat = "";
+bool test(){
+    GenerujTest();
+    int b = c;
+    b = 5*b;
+    b = b+12;
+    b = b/3;
+    b = b-65;
+    b = b*2;
+    b = b+19;
+    if (solution(c) == b)
+        {
+            komunikat = "Gratulacje! Twój algorytm działa!";
+            return true;
+        }
+    else {komunikat = "Uwaga, coś jest nie tak z twoim algorytmem!"; return false;}
 }

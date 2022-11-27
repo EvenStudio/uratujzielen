@@ -1,0 +1,31 @@
+CREATE TABLE sygnaly(
+   id            INTEGER PRIMARY KEY 
+  ,czestotliwosc INTEGER
+  ,miasto        TEXT
+  ,urzadzenie    TEXT
+);
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (1,612251,'Wrocław','PearEye');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (2,579537,'Gdańsk','Nadajnik');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (3,401077,'Warszawa','SangSang');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (4,574935,'Kraków','Racer');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (5,876494,'Wrocław','Medir Tone');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (6,45772,'Łódź','SangSang');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (7,885901,'Warszawa','TwoMinus');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (8,398090,'Berlin','Medir Tone');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (9,603364,'Kraków','PearEye');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (10,50942,'Wrocław','Gooogol');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (11,793738,'Łódź','GL');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (12,366223,'Gdańsk','Nadajnik');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (13,661703,'Kraków','PearEye');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (14,781875,'Berlin','Novelo');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (15,741702,'Warszawa','myPhone');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (16,580466,'Wrocław','Nadajnik');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (17,365637,'Kraków','SangSang');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (18,702024,'Berlin','Novelo');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (19,136851,'Kraków','Medir Tone');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (20,920276,'Warszawa','PearEye');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (21,44257,'Łódź','Pop');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (22,352715,'Wrocław','Novelo');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (23,905416,'Gdańsk','TwoMinus');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (24,502742,'Łódź','Nadajnik');
+INSERT INTO sygnaly(id,czestotliwosc,miasto,urzadzenie) VALUES (25,855109,'Wrocław','myPhone');

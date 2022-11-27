@@ -1,6 +1,7 @@
+#include <iostream>
 #include "zadanie.cpp"
-
-long long solution(){
-    return ...;
+int solution(int a)
+{
+    //
+    return a;
 }
- 

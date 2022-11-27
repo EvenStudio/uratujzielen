@@ -1,14 +1,7 @@
-#pragma once
-#include <vector>
-#include <string>
+#include <ctime>
 
-void napraw(int numerUrzadzenia);
-void restart();
+int a; //częstotliwość początkowa
+int b; //właściwa częstotliwość
 
-struct Urzadzenie{
-    int numer;
-    std::string nazwa;
-    bool dziala;
-};
-
-Urzadzenie urzadzenia[50];
+void wzrost();
+void odejmowanie();

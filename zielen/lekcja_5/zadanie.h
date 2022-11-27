@@ -1,7 +1,14 @@
-#include <utility>
+#pragma once
+#include <vector>
 #include <string>
 
-struct odpowiedz
-{
-    std::pair<std::string, std::string> tekst;
+void napraw(int numerUrzadzenia);
+void restart();
+
+struct Urzadzenie{
+    int numer;
+    std::string nazwa;
+    bool dziala;
 };
+
+Urzadzenie urzadzenia[50];

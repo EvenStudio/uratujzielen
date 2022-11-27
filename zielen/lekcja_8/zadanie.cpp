@@ -1,6 +1,7 @@
-#include "zadanie.h"
-#define _USE_MATH_DEFINES
-
-double zamienStopnieNaRadiany(int stopnie){
-    return (stopnie * (M_PI / 180));
+#include <cstdlib>
+#include <ctime>
+int c;
+void GenerujTest(){
+srand(time(NULL));
+c = rand() % 9999;
 }

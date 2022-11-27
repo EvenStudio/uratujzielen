@@ -1,7 +1,7 @@
+#include <iostream>
 #include "zadanie.cpp"
-#include <cstdio>
 
-int solution(){
-    //
-    return 0;
+void solution()
+{
+
 }

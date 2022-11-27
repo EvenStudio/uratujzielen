@@ -1,1 +1,0 @@
-result_query: SELECT * FROM pracownicyUkryte WHERE urlop="NIE" AND firma="Auto" AND dzial="obsluga klienta" AND (jezyk="hiszpanski" OR jezyk="polski" OR jezyk="niemiecki" OR jezyk="angielski") ORDER BY id ASC LIMIT 1
