@@ -16,7 +16,7 @@ Może ci się tylko tak wydaje, ale Odra jest jakoś czystsza. Brzegi rzeki w za
 - Dobrze że mam w sobie dostęp do Gaggle.
 Z RASU znika pikselowa twarz a pojawia się okienko wyszukiwarki. Musisz znaleźć, o jakie miejsce ci chodzi, i wpisać je w Gaggle Maps aby się tam dostać. Włącz myślenie!
 [łososiowa ramka
-W polu obok wpisz nazwę pomnika przy którym jest "frytka", i na jakiej wyspie się znajduje (bielmo otoczone wodą) w formacie "a, b".
+W kodzie obok wpisz nazwę pomnika przy którym jest "frytka" [pierwszy element pary], i na jakiej wyspie się znajduje (bielmo otoczone wodą) [drugi element pary].
 ]
 PODPOWIEDŹ:
 Szachy to też sport.
