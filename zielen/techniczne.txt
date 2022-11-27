@@ -1,0 +1,24 @@
+Nasz projekt znajduje się na repozytorium na GitHubie: https://github.com/EvenStudio/uratujzielen
+
+pliki do LNU znajdują się w folderze zielen
+
+W tekstach lekcji występuje następujące formatowanie:
+- szare ramki:
+[szara ramka
+treść tekstu
+]
+
+- łososiowe ramki:
+[łososiowa ramka
+treść tekstu
+]
+
+- etykietki (to niewidoczne w treści):
+Etykietki:
+NAZWA_ETYKIETKI
+
+- podpowiedzi (to niewidoczne w treści):
+PODPOWIEDŹ:
+treść tekstu
+
+oraz zdjęcie które powinno być umieszczone na początku treści (w pliku GRAFIKA_X.txt znajduje się link do zdjęcia)
