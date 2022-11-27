@@ -1,6 +1,3 @@
-tytuł:
-"Zwyczajny poranek w Szwajcarii"
-
 solution.cpp
 widoczny: TAK
 do edycji: TAK
