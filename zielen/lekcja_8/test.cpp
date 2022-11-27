@@ -1,5 +1,6 @@
 #include "solution.cpp"
 #include <iostream>
+#include "zadanie.cpp"
 
 std::string komunikat = "";
 

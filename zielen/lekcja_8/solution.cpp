@@ -1,4 +1,5 @@
 #include <cmath>
+#include "zadanie.cpp"
 #define _USE_MATH_DEFINES
 
 long long solution(){

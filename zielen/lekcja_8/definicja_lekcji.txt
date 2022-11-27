@@ -6,6 +6,10 @@ test.cpp
 widoczny: NIE
 do edycji: NIE
 
+zadanie.cpp
+widoczny: TAK
+do edycji: TAK
+
 output: TAK
 testy: TAK
 liczba testów: 1
