@@ -1,6 +1,6 @@
 #include <iostream>
 #include "zadanie.cpp"
-int solution()
+int solution(int a)
 {
     a = 5*a;
     a = a+12;
