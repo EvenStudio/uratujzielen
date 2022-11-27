@@ -1,5 +1,5 @@
 #include <string>
 
 std::string solution() {
-    return "NIEBIESKI";
+    return "KOLOR";
 }
