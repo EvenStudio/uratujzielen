@@ -22,3 +22,6 @@ Po pięciu minutach robot się odłączył:
 [łososiowa ramka
 W funkcji solution() napisz odpowiedni program, który wyliczy x, a potem cały szyfr. Jeżeli korzystasz z funkcji sin(), to przyjmuje ona argumenty w postaci radianów. Do przekonwertowania stopni na radiany użyj funkcji zamienStopnieNaRadiany(stopnie). Funkcja solution() powinna zwracać pełny szyfr.
 ]
+
+Etykietki:
+IEA_MISJA_SKONCZONA
