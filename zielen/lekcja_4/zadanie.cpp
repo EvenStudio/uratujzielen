@@ -13,6 +13,8 @@ std::string nazwy[10]{
 "Czujnik"
 };
 
+bool systemOn = false;
+
 void losuj(){
     for(int i = 0; i < 50; i++){
         urzadzenia[i].numer = i+100;
