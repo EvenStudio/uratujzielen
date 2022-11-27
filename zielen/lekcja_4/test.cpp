@@ -2,6 +2,8 @@
 #include <ctime>
 
 std::string komunikat = "";
+bool systemOn = false;
+bool poprawne = true;
 
 bool test(){
     srand(time(NULL));

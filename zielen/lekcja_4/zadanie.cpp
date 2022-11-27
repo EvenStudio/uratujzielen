@@ -12,8 +12,6 @@ std::string nazwy[10]{
 "Monitor",
 "Czujnik"
 };
-bool systemOn = false;
-bool poprawne = true;
 
 void losuj(){
     for(int i = 0; i < 50; i++){
