@@ -2,6 +2,6 @@
 #include "zadanie.cpp"
 
 int solution ()
-  {
-  
-  }
+{
+
+}

@@ -1,11 +1,11 @@
-#include <iostream>
+#include "zadanie.h"
 
-int wzrost(a)
+int wzrost()
 {
   a = a + 9; 
 }
 
-int odejmowanie(a)
+int odejmowanie()
 {
-  a = a -7 
+  a = a - 7;
 }

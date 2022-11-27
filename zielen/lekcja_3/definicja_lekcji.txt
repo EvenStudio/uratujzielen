@@ -1,6 +1,9 @@
+zadanie.h
+widoczny: TAK
+do edycji: NIE
 
 zadanie.cpp
-widoczny: TAK
+widoczny: NIE
 do edycji: NIE
 
 solution.cpp

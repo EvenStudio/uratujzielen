@@ -22,5 +22,6 @@ W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Użyj ich w solution(
 ]
 Etykietki:
 POMOC_OBCYM
+
 PODPOWIEDŹ:
 Użyj pętli for.
