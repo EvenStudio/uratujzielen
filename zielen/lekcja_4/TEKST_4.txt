@@ -17,5 +17,5 @@ Jak to zrobisz, urządzenia znowu będą w stanie czyścić Odrę tak, jak nale�
 Powodzenia!
 
 [łososiowa ramka
-Jest 50 urządzeń (numerowane od 0 do 49). urzadzenia[i].dziala zwraca true, jeśli urządzenie o indeksie i działa, a false, jeśli nie działa. Skorzystaj z funkcji napraw(i), aby naprawić urządzenie o indeksie i. 
+Jest 50 urządzeń (z indeksem od 0 do 49). urzadzenia[i].dziala zwraca true, jeśli urządzenie o indeksie i działa, a false, jeśli nie działa. Skorzystaj z funkcji napraw(urzadzenia[i].numer), aby naprawić urządzenie o indeksie i a numerze x. 
 ]
