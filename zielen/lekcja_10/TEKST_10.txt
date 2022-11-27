@@ -20,6 +20,3 @@ Tydzień później
 [łososiowa ramka
 Gratulacje! Ukończyłeś misję!
 ]
-
-Etykietki:
-IEA_MISJA_SKONCZONA

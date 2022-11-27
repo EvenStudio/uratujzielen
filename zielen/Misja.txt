@@ -3,7 +3,7 @@ Kolejność zadań:
 Zadanie 1: (obowiązkowe)[tytuł: "Zwyczajny poranek w Szwajcarii"]
 Zadanie 2: (obowiązkowe)[tytuł: "Fotowoltaika"]
 Zadanie 3: (obowiązkowe)[tytuł: "Konsultanci"]
-Zadanie 4: (nie)[tytuł: "Spotkania pierwszego stopnia"]
+Zadanie 4: (nieobowiązkowe)[tytuł: "Spotkania pierwszego stopnia"]
 Zadanie 5: (obowiązkowe)[tytuł: "Rzeka śniętych ryb"]
 Zadanie 6: (obowiązkowe)[tytuł: "Ustalenie kontaktu"]
 Zadanie 7: (obowiązkowe)[tytuł: "Gdzie jest pendrive?"]
@@ -14,7 +14,7 @@ Zadanie 10: (obowiązkowe)[tytuł: "I żyli długo i szczęśliwie"]
 Osiągnięcia:
 1)
 Tytuł: Najlepszy agent IEA!
-Opis: Za powstrzymanie dominacji firmy Provivolt w misji ("tytuł")
+Opis: Za powstrzymanie dominacji firmy Provivolt w misji (Hackerman)
 Nazwa etykietki: IEA_MISJA_SKONCZONA
 Licza etykietek: 1
 Plik: iea_puchar.png
