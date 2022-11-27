@@ -1,5 +1,9 @@
-zadanie.cpp
+zadanie.h
 widoczny: TAK
+do edycji: NIE
+
+zadanie.cpp
+widoczny: NIE
 do edycji: NIE
 
 solution.cpp
@@ -10,7 +14,7 @@ test.cpp
 widoczny: NIE
 do edycji: NIE
 
-output: TAK
+output: NIE
 testy: TAK
 liczba testów: 1
 min_zaliczonych: 1
