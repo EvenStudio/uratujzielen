@@ -8,6 +8,5 @@ int solution()
     a = a-65;
     a = a*2;
     a = a+19;
-    a = 5*a;
     return a;
 }
