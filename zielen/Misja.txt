@@ -14,7 +14,7 @@ Zadanie 10: (obowiązkowe)[tytuł: "I żyli długo i szczęśliwie"]
 Osiągnięcia:
 1)
 Tytuł: Najlepszy agent IEA!
-Opis: Za powstrzymanie dominacji firmy Provivolt w misji ("tytuł")
+Opis: Za powstrzymanie dominacji firmy Provivolt w misji (Hackerman)
 Nazwa etykietki: IEA_MISJA_SKONCZONA
 Licza etykietek: 1
 Plik: iea_puchar.png
