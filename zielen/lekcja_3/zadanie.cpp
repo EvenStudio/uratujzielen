@@ -1,11 +1,14 @@
 #include "zadanie.h"
+int KopiaAKtorejNaPewnoNieOdgadna = 0;
 
-int wzrost()
+void wzrost()
 {
   a = a + 9; 
+  KopiaAKtorejNaPewnoNieOdgadna += 9;
 }
 
-int odejmowanie()
+void odejmowanie()
 {
   a = a - 7;
+  KopiaAKtorejNaPewnoNieOdgadna -= 7;
 }

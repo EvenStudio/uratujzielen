@@ -6,9 +6,11 @@ std::string komunikat = " ";
 bool test()
 {
   srand((unsigned) time(NULL));
-  int a = rand() %100;
-  int b = rand() %100;
-  if (solution() == b) 
+  a = rand() %100;
+  b = rand() %100;
+  KopiaAKtorejNaPewnoNieOdgadna = a;
+  int d = b;
+  if (KopiaAKtorejNaPewnoNieOdgadna == b) 
   {
     komunikat = "Udało ci się pomóc kosmicie! Dzięki tobie może on wrócić do domu. Po chwili nadlatuje statek identyczny do tego, którym przyleciał Inox. Kosmita się żegna, daje jedzenie Azorowi i wchodzi do statku, zostawiając psa. Po chwili odlatuje.";
     return true;   

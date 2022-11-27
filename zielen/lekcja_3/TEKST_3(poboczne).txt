@@ -18,7 +18,7 @@ Patrzysz na regulator częstotliwości. Działają tylko dwa systemy.
 - Te liczby to -7 i +9. Użyć komputer pokładowy, aby mi pomoć. - sugeruje Inox.
 
 [łososiowa ramka
-W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
+W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Funkcje to odpowiednio pomniejszają i podwiększają a o odpowiednie wartości (+9 i -7). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
 ]
 Etykietki:
 POMOC_OBCYM

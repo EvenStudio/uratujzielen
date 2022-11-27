@@ -1,7 +1,7 @@
 #include <ctime>
 
-int a;
-int b;
+int a; //częstotliwość początkowa
+int b; //właściwa częstotliwość
 
 int wzrost();
 int odejmowanie();
