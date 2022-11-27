@@ -22,3 +22,5 @@ PODPOWIEDŹ:
 treść tekstu
 
 oraz zdjęcie które powinno być umieszczone na początku treści (w pliku GRAFIKA_X.txt znajduje się link do zdjęcia)
+
+W pliku  Misja.txt znajduje się spis wszystkich lekcji misji.
