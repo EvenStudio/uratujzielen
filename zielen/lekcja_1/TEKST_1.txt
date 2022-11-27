@@ -23,12 +23,12 @@ Zamiast pikselowej twarzy na robocie wyświetlił się Taki oto dokument:
 [szara ramka
 "Agencie PL-4638,
  w kryjówce nr 503 w ********** umieszczono 4 plecaki w kolorach: żółty, niebieski, zielony, czerwony.
-Lista przedmiotów w nich umieszczonych (to są przedmioty dodatkowe): poradnik elektryka, identyfikator, GPS, lornetka, śpiwór, podręcznik j. angielskiego, książka "Gotowanie 101", długopis z trucizną.
+Lista przedmiotów w nich umieszczonych (to są przedmioty dodatkowe): poradnik C++, identyfikator, GPS, lornetka, śpiwór, podręcznik j. angielskiego, książka "Gotowanie 101", długopis z trucizną.
 Podpowiedzi:
 - W każdym plecaku są dwie rzeczy
 - GPS i książka znajdują się w kolorach przeciwstawnych (losowa kolejność)
 - śpiwór i podręcznik są razem
-- poradnik elektryka jest w niebieskim plecaku
+- poradnik C++ jest w niebieskim plecaku
 - lornetka nie jest w niebieskim plecaku
 - długopis jest w zielonym plecaku
 - książka jest w czerwonym plecaku
