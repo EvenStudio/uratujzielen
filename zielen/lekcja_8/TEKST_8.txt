@@ -18,7 +18,7 @@ Na szczęście RASU ma program szyfrujący, który zawiera specjalne modyfikacje
 - Okej.
 Po pięciu minutach robot się odłączył:
 - Otóż szyfr to 8725638784X. X to nieznana mi cyfra.
-- Na szczęście ja ją znam! Szef mówił mi kiedyś. O ile pamiętam, to było coś w stylu sin 30 stopni * 2. Nie pamiętam ile to jest, w liceum byłem dawno temu. Dobra RASU, otwieraj konsolę, rozwiążemy szyfr w tobie.
+- Na szczęście ja ją znam! Szef mówił mi kiedyś. O ile pamiętam, to było coś w stylu (sin 30 stopni) * 2. Nie pamiętam ile to jest, w liceum byłem dawno temu. Dobra RASU, otwieraj konsolę, rozwiążemy szyfr w tobie.
 [łososiowa ramka
 W solution() wpisz odpowiedni program, który wyliczy x, a potem cały szyfr. Jeżeli korzystasz z funkcji sin(), to przyjmuje ona argumenty w postaci radianów. Do przekonwertowania stopni na radiany użyj funkcji zamienStopnieNaRadiany(stopnie).
 ]

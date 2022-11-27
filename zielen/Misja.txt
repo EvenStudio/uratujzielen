@@ -1,15 +1,15 @@
 Tytuł Misji:
 Kolejność zadań:
-Zadanie 1: (obowiązkowe/nie)
-Zadanie 2: (obowiązkowe/nie)
-Zadanie 3: (obowiązkowe/nie)
-Zadanie 4: (obowiązkowe/nie)
-Zadanie 5: (obowiązkowe/nie)
-Zadanie 6: (obowiązkowe/nie)
-Zadanie 7: (obowiązkowe/nie)
-Zadanie 8: (obowiązkowe/nie)
-Zadanie 9: (obowiązkowe/nie)
-Zadanie 10: (obowiązkowe/nie)
+Zadanie 1: (obowiązkowe)
+Zadanie 2: (obowiązkowe)
+Zadanie 3: (obowiązkowe)
+Zadanie 4: (nie)
+Zadanie 5: (obowiązkowe)
+Zadanie 6: (obowiązkowe)
+Zadanie 7: (obowiązkowe)
+Zadanie 8: (obowiązkowe)
+Zadanie 9: (obowiązkowe)
+Zadanie 10: (obowiązkowe)
 
 Osiągnięcia:
 1)
@@ -20,7 +20,7 @@ Licza etykietek: 1
 Plik: iea_puchar.png
 2)
 Tytuł: Współpraca międzyplanetarna
-Opis: Za pomoc obcym z kosmosu w zadaniu (3/4)
+Opis: Za pomoc obcym z kosmosu w zadaniu (4)
 Nazwa etykietki: POMOC_OBCYM
 Liczba etykietek: 1
 Plik: kosmita.png
