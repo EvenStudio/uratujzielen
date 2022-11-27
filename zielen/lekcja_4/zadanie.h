@@ -1,5 +1,6 @@
 #pragma once
 #include <vector>
+#include <string>
 
 void napraw(int numerUrzadzenia);
 void restart();
