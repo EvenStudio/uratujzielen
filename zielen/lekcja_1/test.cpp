@@ -9,14 +9,14 @@ string komunikat = "";
 
 bool test() {
     string kolorplecaka = solution();
-    for (size_t i = 0; i < kolorplecaka.length(); i++)
-    {
+    for (size_t i = 0; i < kolorplecaka.length(); i++){
         kolorplecaka[i] = tolower(kolorplecaka[i]);
     } 
-    if (kolorplecaka == "niebieski")
-        {
-            komunikat = "Gratulacje! Wybrałeś dobry plecak!";
-            return true;
-        }
-    else {komunikat = "Wziąłeś zły plecak!"; return false;}
+    if (kolorplecaka == "niebieski"){
+        komunikat = "Gratulacje! Wybrałeś dobry plecak!";
+        return true;
+    } else {
+        komunikat = "Wziąłeś zły plecak!";
+        return false;
+    }
 }
