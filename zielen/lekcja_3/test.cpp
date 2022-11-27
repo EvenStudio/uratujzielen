@@ -5,8 +5,8 @@ std::string komunikat = " ";
 bool test()
 {
   srand(time(NULL));
-  a = rand() %10000;
-  b = rand() %10000;
+  a = rand() %100000;
+  b = rand() %100000;
   KopiaAKtorejNaPewnoNieOdgadna = a;
   int d = b;
   solution();
