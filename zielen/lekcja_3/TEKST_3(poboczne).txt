@@ -27,4 +27,4 @@ Etykietki:
 POMOC_OBCYM
 
 PODPOWIEDŹ:
-Użyj pętli for.
+Użyj pętli while.
