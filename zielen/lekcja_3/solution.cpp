@@ -1,7 +1,15 @@
 #include <iostream>
 #include "zadanie.cpp"
 
-int solution ()
+void solution()
 {
-
+while (a != b)
+{
+  if(a < b){
+    wzrost();
+  }
+  else{
+    odejmowanie();
+  }
+}
 }
