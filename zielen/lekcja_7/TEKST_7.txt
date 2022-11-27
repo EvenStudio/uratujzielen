@@ -33,5 +33,5 @@ Jeżeli wpiszesz otrzymaną w liczbę w konsolę w windzie, dotrzesz do właści
 ]
 Nie wiesz na którym piętrze jesteś, a do tego nie chcesz wykonywać wszystkich obliczeń w głowie. Ale od czego jest RASU posiadający wbudowane środowiska programistyczne dla ponad 100 języków! Użyj programowania aby pomóc sobie w życiu.
 [łososiowa ramka
-W funkcję solution() wpisz algorytm, który poprawnie wskaże drogę do serwerowni. Kolejne operacje wykonuj na zmiennej a.
+W funkcji solution() napisz kod, który dla podanego argumentu a (numer piętra) zwraca liczbę którą należy wpisać w windzie. 
 ]
