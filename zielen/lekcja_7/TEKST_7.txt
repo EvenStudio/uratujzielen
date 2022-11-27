@@ -18,15 +18,15 @@ Skradanie się i chowanie przed strażnikami bardzo spowalnia przemieszczanie si
 Ze względów bezpieczeństwa w windzie wpisywana jest liczba, która nie oznacza numeru piętra. Dzięki poniższym wskazówkom będziecie w stanie znaleźć docelowe piętro. 
 - liczbę piętra pomnóż przez 5
 - dodaj 12
-- jeżeli bufet: odejmij 24
-- jeżeli biura: pomnóż przez 2
-- jeżeli piętra badawcze: podziel przez 4
+- jeżeli (docelowe pięro) to bufet: odejmij 24
+- jeżeli (docelowe pięro) to biura: pomnóż przez 2
+- jeżeli (docelowe pięro) to piętra badawcze: podziel przez 4
 - podziel przez 3
-- jeżeli gabinet ochrony: dodaj 48
-- jeżeli serwerownia: odejmij 65
-- jeżeli sale konferencyjne: pomnóż przez 7
-- jeżeli gabinety szefów: odejmnij 39
-- jeżeli księgowość: podziel przez 5
+- jeżeli (docelowe pięro) to gabinet ochrony: dodaj 48
+- jeżeli (docelowe pięro) to serwerownia: odejmij 65
+- jeżeli (docelowe pięro) to sale konferencyjne: pomnóż przez 7
+- jeżeli (docelowe pięro) to gabinety szefów: odejmnij 39
+- jeżeli (docelowe pięro) to księgowość: podziel przez 5
 - pomnóż przez 2
 - dodaj 19
 Jeżeli wpiszesz otrzymaną w liczbę w konsolę w windzie, dotrzesz do właściwego piętra."

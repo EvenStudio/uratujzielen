@@ -1,5 +1,5 @@
 UWAGA!!! LAWINA!!! DOTRZE ZA 30 SEKUND!!!
-Otwierasz plecak. Jest tam identyfikator i Poradnik C++. Dobrze rozwiązałeś zagadkę!
+Otwierasz plecak. Jest tam identyfikator i Poradnik C++ i SQL. Dobrze rozwiązałeś zagadkę!
 Biegnesz przez dom do piwnicy. !!! 10 SEKUND !!!
 Już otwierasz schron, ale karta ci wypadła. !!! 5 SEKUND !!!
 Drzwi otwarte....
@@ -23,7 +23,7 @@ W pociągu RASU dostaje pilny komunikat:
 Po dwóch godzinach jesteście nareszcie w Brzeziej łące. Mała miejscowość niedaleko Wrocławia. Wydaje się normalna, ale w centrum stoi mały budynek Provivoltu, a według informacji udzielonych przez IEA nie ma tu domu nie korzystającego z "brudnej" energii. 
 - Przydałoby się zorganizować tu fotowoltaikę...
 - Nie ma szans. Burmistrz jest jednym z udziałowców Provivoltu. Zablokuje wszystkie publiczne projekty. Do tego możesz spotkać się z nieprzychylnością mieszkańców. Po trzecie nie masz ze sobą żadnych planów ani materiałów.
-- Zapomniałeś, że mam ze sobą Poradnik C++, poza tym jestem jednym z najlepszych agentów.
+- Zapomniałeś, że mam ze sobą Poradnik C++ i SQL, poza tym jestem jednym z najlepszych agentów.
 - Co, zrobisz to sam?
 - Tak, zrobię to sam!
 - Ale jak?
