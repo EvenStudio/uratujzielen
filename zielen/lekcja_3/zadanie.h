@@ -3,5 +3,5 @@
 int a; //częstotliwość początkowa
 int b; //właściwa częstotliwość
 
-int wzrost();
-int odejmowanie();
+void wzrost();
+void odejmowanie();
