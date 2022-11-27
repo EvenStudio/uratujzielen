@@ -22,7 +22,3 @@ Po pięciu minutach robot się odłączył:
 [łososiowa ramka
 W solution() wpisz odpowiedni program, który wyliczy x, a potem cały szyfr. Jeżeli korzystasz z funkcji sin(), to przyjmuje ona argumenty w postaci radianów. Do przekonwertowania stopni na radiany użyj funkcji zamienStopnieNaRadiany(stopnie).
 ]
-
-
-
-
