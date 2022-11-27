@@ -1,6 +1,14 @@
-plik_x
-widoczny: TAK/NIE
-do edycji: TAK/NIE
+zadanie.h
+widoczny: TAK
+do edycji: NIE
+
+solution.cpp
+widoczny: TAK
+do edycji: TAK
+
+test.cpp
+widoczny: NIE
+do edycji: NIE
 
 output: TAK/NIE
 testy: TAK/NIE
