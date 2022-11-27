@@ -15,10 +15,13 @@ Poprawka. To już nie jest najdziwniejsze. Z dna wychyla się czteropalczasta, p
 - Jaki jest problem ze statkiem?
 - Nie moć złapać właściwa częstotliwość. Zobacz regulator.
 Patrzysz na regulator częstotliwości. Działają tylko dwa systemy.
-- Te liczby to -7 i +9. Użyć komputer pokładowy, aby mi pomoć. - sugeruje Inox.
+- Te liczby to -6 i +9. Użyć komputer pokładowy, aby mi pomoć. - sugeruje Inox.
+- Musisz jakoś zaprogramować komputer, aby był w stanie ustawić dobrą częstotliwość - podpowiada RASU.
+- Hau, hau - wsparcie emocjonalne oferuje Azor.
+Jesteś gotowy. Uratuj kosmitę!
 
 [łososiowa ramka
-W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Funkcje to odpowiednio pomniejszają i podwiększają a o odpowiednie wartości (+9 i -7). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
+W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Funkcje to odpowiednio pomniejszają i podwiększają a o odpowiednie wartości (+9 i -6). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
 ]
 Etykietki:
 POMOC_OBCYM
