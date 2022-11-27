@@ -1,3 +1,7 @@
+zadanie.cpp
+widoczny: TAK
+do edycji: NIE
+
 solution.cpp
 widoczny: TAK
 do edycji: TAK
@@ -5,10 +9,6 @@ do edycji: TAK
 test.cpp
 widoczny: NIE
 do edycji: NIE
-
-zadanie.cpp
-widoczny: TAK
-do edycji: TAK
 
 output: TAK
 testy: TAK
