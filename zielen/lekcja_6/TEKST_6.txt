@@ -14,4 +14,6 @@ Na te wieści prawie mdlejesz. Jednak bierzesz się w garść i biegniesz do cen
 - Mój RASU wczepił czip w oszusta...
 - Dobrze! Dzięki temu znajdziemy go! Ale nasze czipy odbierają i wysyłają bardzo wiele sygnałów. Do tego Wroclaw jest pełen fal elektromagnetycznych, a poza tym wróg może mieć zabezpieczenia, zagłuszacze i inne takie. Będziesz musiał wybrać właściwy komunikat, który przedstawi nam położenie agenta, a przy okazji też siedziby Provivoltu. Będziesz musiał potem tam wyruszyć w nocy, odzyskać pendrive'a i zniszyć chociaż część plików w serwerach Provivoltu. Nikt ci nie może pomóc, bo brakuje nam ludzi i część jest na wakacjach. Mam nadzieję że sobie poradzisz!
 
-Masz bazę danych sygnałów z różnych urządzeń IEA (kolumna urzadzenie) z ostatniej godziny. Napisz polecenie, które pokaże nam nadajnik agenta Provivolta. Pamiętaj, że powinniśmy otrzymać sygnał ten jest nadany we Wrocławiu.
+[łososiowa ramka
+Masz bazę danych sygnałów z różnych rodzajów urządzeń IEA (kolumna urzadzenie) z ostatniej godziny. Napisz polecenie, które pokaże nam nadajnik agenta Provivolta. Pamiętaj, że powinniśmy otrzymać sygnał ten jest nadany we Wrocławiu.
+]
