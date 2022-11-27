@@ -1,15 +1,15 @@
 Tytuł Misji:
 Kolejność zadań:
-Zadanie 1: (obowiązkowe)
-Zadanie 2: (obowiązkowe)
-Zadanie 3: (obowiązkowe)
-Zadanie 4: (nie)
-Zadanie 5: (obowiązkowe)
-Zadanie 6: (obowiązkowe)
-Zadanie 7: (obowiązkowe)
-Zadanie 8: (obowiązkowe)
-Zadanie 9: (obowiązkowe)
-Zadanie 10: (obowiązkowe)
+Zadanie 1: (obowiązkowe)[tytuł: "Zwyczajny poranek w Szwajcarii"]
+Zadanie 2: (obowiązkowe)[tytuł: "Fotowoltaika"]
+Zadanie 3: (obowiązkowe)[tytuł: "Konsultanci"]
+Zadanie 4: (nie)[tytuł: "Spotkania pierwszego stopnia"]
+Zadanie 5: (obowiązkowe)[tytuł: "Rzeka śniętych ryb"]
+Zadanie 6: (obowiązkowe)[tytuł: "Ustalenie kontaktu"]
+Zadanie 7: (obowiązkowe)[tytuł: "Gdzie jest pendrive?"]
+Zadanie 8: (obowiązkowe)[tytuł: "Wejście na teren wroga"]
+Zadanie 9: (obowiązkowe)[tytuł: "Hackerman"]
+Zadanie 10: (obowiązkowe)[tytuł: "I żyli długo i szczęśliwie"]
 
 Osiągnięcia:
 1)
