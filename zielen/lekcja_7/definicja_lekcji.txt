@@ -1,10 +1,15 @@
-plik solution.cpp
+zadanie.cpp
+widoczny: NIE
+do edycji: NIE
+
+solution.cpp
 widoczny: TAK
 do edycji: TAK
 
-plik test.cpp
+test.cpp
 widoczny: NIE
 do edycji: NIE
+
 output: TAK
 testy: TAK
 liczba testów: 10

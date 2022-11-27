@@ -10,7 +10,7 @@ test.cpp
 widoczny: NIE
 do edycji: NIE
 
-output: TAK/NIE
-testy: TAK/NIE
-liczba testów: n
-min_zaliczonych: n
+output: NIE
+testy: TAK
+liczba testów: 1
+min_zaliczonych: 1

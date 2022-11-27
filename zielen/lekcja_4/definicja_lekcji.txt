@@ -16,5 +16,5 @@ do edycji: NIE
 
 output: TAK
 testy: TAK
-liczba testów: 5
-min_zaliczonych: 5
+liczba testów: 10
+min_zaliczonych: 10
