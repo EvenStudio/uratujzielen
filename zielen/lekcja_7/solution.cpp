@@ -1,5 +1,5 @@
 #include <iostream>
-#include "zadanie.h"
+#include "zadanie.cpp"
 int solution()
 {
     a = 5*a;

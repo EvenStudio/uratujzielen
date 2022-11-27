@@ -4,6 +4,7 @@ using namespace std;
 
 string komunikat = "";
 bool test(){
+    GenerujTest();
     a = 5*a;
     a = a+12;
     a = a/3;
