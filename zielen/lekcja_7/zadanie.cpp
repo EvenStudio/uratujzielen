@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <ctime>
-int a;
+int c;
 void GenerujTest(){
 srand(time(NULL));
-a = rand() % 9999;
+c = rand() % 9999;
 }

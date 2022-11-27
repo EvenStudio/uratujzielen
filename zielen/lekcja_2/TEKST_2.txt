@@ -11,11 +11,11 @@ Właśnie wychodzisz, kiedy RASU ci przerywa:
 - To są okolice domniemanego pochodzenia sprawców lawiny, która miała cię unieszkodliwić. Wyruszajmy!
 - Czekaj, jeszcze nie!
 - Dlaczego?
-- Agencja nie odważyła się przekazać tego robotowi, ale posiadam bardzo ważny pendrive. Miałem go chronić. Podejrzewam, że to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szczęście jest w tym schronie. 
+- Agencja nie odważyła się przekazać tego robotowi, ale posiadam bardzo ważny pendrive. Mam go chronić. Podejrzewam, że to z jego powodu dokonanu zamachu na mnie i na ciebie. Na szczęście jest w tym schronie. 
 Otwierasz sejf swoim identyfikatorem, wyjmujesz małe stalowe pudełeczko i wychodzisz tajnym włazem pod odsuwaną szafą.
 
-W pociągu RASU dostaje pilny komunikat:
-- Odnaleziono odpowiedzialnych za sprawców lawiny. To Provivolt, wiodąca firma energetyczna na świecie. Od lat sabotują agencję, ale odważyli się spowodować lawinę, co oznacza, że mają duże wpływy i zamierzają je wykorzystać. Musisz ich powstrzymać! Nie sam oczywiście. Po dotarciu musisz na piechotę dojść do Wrocławia i tam stawić się na oddziale IEA.
+W UER RASU dostaje pilny komunikat:
+- Odnaleziono odpowiedzialnych za sprawców lawiny! To Provivolt, wiodąca firma energetyczna na świecie. Od lat sabotują agencję, ale odważyli się spowodować lawinę, co oznacza, że mają duże wpływy i zamierzają je wykorzystać. Musisz ich powstrzymać! Nie sam oczywiście. Po dotarciu musisz na piechotę dojść do Wrocławia i tam stawić się na oddziale IEA.
 - Muszę na piechotę?
 - W komunikacji na wsi będziesz łatwo rozpoznawalny, a w mieście wtopisz się w tłum. Spokojnie, to tylko 20 km.
 - ILE?!

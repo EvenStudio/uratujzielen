@@ -5,14 +5,14 @@ using namespace std;
 string komunikat = "";
 bool test(){
     GenerujTest();
-    int b = a;
+    int b = c;
     b = 5*b;
     b = b+12;
     b = b/3;
     b = b-65;
     b = b*2;
     b = b+19;
-    if (solution() == b)
+    if (solution(c) == b)
         {
             komunikat = "Gratulacje! Twój algorytm działa!";
             return true;

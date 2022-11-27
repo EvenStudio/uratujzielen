@@ -21,7 +21,11 @@ Patrzysz na regulator częstotliwości. Działają tylko dwa systemy.
 Jesteś gotowy. Uratuj kosmitę!
 
 [łososiowa ramka
+<<<<<<< HEAD
+W zadanie.h znajdziesz funkcje wzrost() i odejmowanie(). Funkcje to odpowiednio pomniejszają i podwiększają a o odpowiednie wartości (+9 i -7). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
+=======
 W zadanie.cpp znajdziesz funkcje wzrost() i odejmowanie(). Funkcje to odpowiednio pomniejszają i podwiększają a o odpowiednie wartości (+9 i -6). Użyj ich w solution(), aby opracowac algorytm znajdujący właściwą częstotliwość b z dowolnej częstotliwości a (nie musisz losować a i b, zostanie to zrobione za ciebie).
+>>>>>>> 6db92793d1be1c0f0cc301f3fc028698ff712bb6
 ]
 Etykietki:
 POMOC_OBCYM
